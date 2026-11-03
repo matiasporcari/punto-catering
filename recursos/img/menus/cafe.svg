@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240">
+  <rect width="400" height="240" fill="#e9dcc3"/>
+  <!-- Platillo y taza -->
+  <circle cx="165" cy="120" r="82" fill="#f8f4eb"/>
+  <circle cx="165" cy="120" r="55" fill="#ffffff"/>
+  <circle cx="165" cy="120" r="43" fill="#5b3a26"/>
+  <circle cx="152" cy="108" r="11" fill="#7c5438"/>
+  <rect x="214" y="110" width="40" height="20" rx="10" fill="#ffffff"/>
+  <!-- Medialunas -->
+  <circle cx="320" cy="72" r="30" fill="#d99a3d"/>
+  <circle cx="332" cy="62" r="24" fill="#e9dcc3"/>
+  <circle cx="312" cy="172" r="30" fill="#d99a3d"/>
+  <circle cx="324" cy="162" r="24" fill="#e9dcc3"/>
+</svg>

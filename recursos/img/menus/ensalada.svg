@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240">
+  <rect width="400" height="240" fill="#f0e7cf"/>
+  <!-- Bol -->
+  <circle cx="200" cy="120" r="100" fill="#2f5d47"/>
+  <circle cx="200" cy="120" r="84" fill="#f8f4eb"/>
+  <!-- Hojas y vegetales -->
+  <circle cx="170" cy="92" r="31" fill="#6f9a5d"/>
+  <circle cx="226" cy="84" r="27" fill="#88b06f"/>
+  <circle cx="248" cy="136" r="31" fill="#6f9a5d"/>
+  <circle cx="186" cy="152" r="33" fill="#88b06f"/>
+  <circle cx="145" cy="134" r="14" fill="#d9622b"/>
+  <circle cx="218" cy="122" r="14" fill="#e9b949"/>
+  <circle cx="232" cy="172" r="12" fill="#d9622b"/>
+  <circle cx="198" cy="66" r="9" fill="#d9622b"/>
+</svg>

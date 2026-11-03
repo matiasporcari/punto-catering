@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 480" width="560" height="480" role="img" aria-label="Mesa vista desde arriba con platos, café y ensaladas">
+  <!-- Mesa -->
+  <rect x="10" y="10" width="540" height="460" rx="28" fill="#2f5d47"/>
+  <rect x="150" y="10" width="110" height="460" fill="#285240"/>
+  <!-- Plato principal con ensalada -->
+  <circle cx="270" cy="235" r="120" fill="#f8f4eb"/>
+  <circle cx="270" cy="235" r="92" fill="#efe8d8"/>
+  <circle cx="235" cy="205" r="30" fill="#6f9a5d"/>
+  <circle cx="285" cy="190" r="27" fill="#88b06f"/>
+  <circle cx="312" cy="238" r="31" fill="#6f9a5d"/>
+  <circle cx="262" cy="270" r="33" fill="#88b06f"/>
+  <circle cx="222" cy="255" r="16" fill="#d9622b"/>
+  <circle cx="308" cy="282" r="14" fill="#d9622b"/>
+  <circle cx="268" cy="228" r="13" fill="#e9b949"/>
+  <circle cx="330" cy="195" r="10" fill="#d9622b"/>
+  <!-- Taza de café y platillo -->
+  <circle cx="465" cy="95" r="58" fill="#f8f4eb"/>
+  <circle cx="465" cy="95" r="37" fill="#ffffff"/>
+  <circle cx="465" cy="95" r="29" fill="#5b3a26"/>
+  <rect x="498" y="88" width="30" height="14" rx="7" fill="#ffffff"/>
+  <!-- Bocados en bandeja -->
+  <rect x="50" y="48" width="140" height="84" rx="14" fill="#f8f4eb"/>
+  <circle cx="84" cy="90" r="19" fill="#d9622b"/>
+  <circle cx="120" cy="90" r="19" fill="#e9b949"/>
+  <circle cx="156" cy="90" r="19" fill="#88b06f"/>
+  <!-- Copa de jugo -->
+  <circle cx="90" cy="385" r="50" fill="#f8f4eb"/>
+  <circle cx="90" cy="385" r="35" fill="#e9b949"/>
+  <circle cx="102" cy="373" r="10" fill="#f4d27f"/>
+  <!-- Plato de postre -->
+  <circle cx="465" cy="375" r="68" fill="#f8f4eb"/>
+  <circle cx="465" cy="375" r="38" fill="#b84a1b"/>
+  <circle cx="465" cy="375" r="15" fill="#efe8d8"/>
+  <!-- Cubiertos -->
+  <rect x="432" y="172" width="9" height="115" rx="4.5" fill="#d9d2c1"/>
+  <rect x="456" y="172" width="9" height="115" rx="4.5" fill="#d9d2c1"/>
+</svg>

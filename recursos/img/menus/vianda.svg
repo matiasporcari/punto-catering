@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240">
+  <rect width="400" height="240" fill="#dfe7d7"/>
+  <!-- Caja de la vianda -->
+  <rect x="80" y="36" width="240" height="168" rx="16" fill="#1f3d2f"/>
+  <rect x="94" y="50" width="130" height="140" rx="8" fill="#f8f4eb"/>
+  <rect x="234" y="50" width="72" height="66" rx="8" fill="#f8f4eb"/>
+  <rect x="234" y="124" width="72" height="66" rx="8" fill="#f8f4eb"/>
+  <!-- Plato principal -->
+  <rect x="108" y="66" width="102" height="56" rx="14" fill="#b84a1b"/>
+  <circle cx="125" cy="150" r="17" fill="#6f9a5d"/>
+  <circle cx="160" cy="154" r="20" fill="#88b06f"/>
+  <circle cx="193" cy="148" r="15" fill="#6f9a5d"/>
+  <!-- Ensalada y postre -->
+  <circle cx="258" cy="84" r="15" fill="#d9622b"/>
+  <circle cx="283" cy="84" r="15" fill="#88b06f"/>
+  <circle cx="270" cy="157" r="22" fill="#e9b949"/>
+</svg>

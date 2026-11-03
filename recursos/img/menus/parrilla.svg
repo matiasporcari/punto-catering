@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240">
+  <rect width="400" height="240" fill="#3a3a33"/>
+  <!-- Parrilla -->
+  <g fill="#6f6e63">
+    <rect x="60" y="28" width="8" height="184" rx="4"/>
+    <rect x="105" y="28" width="8" height="184" rx="4"/>
+    <rect x="150" y="28" width="8" height="184" rx="4"/>
+    <rect x="195" y="28" width="8" height="184" rx="4"/>
+    <rect x="240" y="28" width="8" height="184" rx="4"/>
+    <rect x="285" y="28" width="8" height="184" rx="4"/>
+    <rect x="330" y="28" width="8" height="184" rx="4"/>
+    <rect x="40" y="52" width="320" height="8" rx="4"/>
+    <rect x="40" y="180" width="320" height="8" rx="4"/>
+  </g>
+  <!-- Cortes de carne -->
+  <rect x="84" y="72" width="130" height="94" rx="34" fill="#973a13"/>
+  <rect x="100" y="86" width="98" height="66" rx="24" fill="#b84a1b"/>
+  <!-- Vegetales -->
+  <circle cx="268" cy="86" r="24" fill="#e9b949"/>
+  <circle cx="312" cy="118" r="20" fill="#6f9a5d"/>
+  <circle cx="262" cy="150" r="22" fill="#d9622b"/>
+</svg>

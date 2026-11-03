@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240">
+  <rect width="400" height="240" fill="#1f3d2f"/>
+  <!-- Copa de vino -->
+  <path d="M112 30h76c6 54-6 92-30 100v62h28a7 7 0 0 1 0 14h-72a7 7 0 0 1 0-14h28v-62c-24-8-36-46-30-100z" fill="#f8f4eb"/>
+  <path d="M116 76h68c-2 28-14 44-34 44s-32-16-34-44z" fill="#973a13"/>
+  <!-- Bandeja de bocados -->
+  <circle cx="290" cy="120" r="82" fill="#f8f4eb"/>
+  <circle cx="262" cy="92" r="19" fill="#d9622b"/>
+  <circle cx="316" cy="92" r="19" fill="#e9b949"/>
+  <circle cx="262" cy="146" r="19" fill="#88b06f"/>
+  <circle cx="316" cy="146" r="19" fill="#b84a1b"/>
+  <circle cx="289" cy="119" r="13" fill="#6f9a5d"/>
+</svg>
