@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1174" viewBox="0 0 1280 1174" fill="none">
+<rect width="1280" height="1174" fill="#f8f4eb"/>
+<rect x="0" y="0" width="1280" height="1174.13" fill="#f8f4eb"/>
+<rect x="0" y="0" width="1280" height="69" fill="#ffffff"/>
+<rect x="0" y="68" width="1280" height="1" fill="#d9d2c1"/>
+<text x="76" y="41.08" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#1f3d2f">Punto Catering</text>
+<text x="245.38" y="41.08" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#b84a1b">.</text>
+<rect x="783.27" y="13.2" width="420.73" height="41.59" fill="#ffffff"/>
+<text x="783.27" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Inicio</text>
+<text x="847.55" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Catálogo</text>
+<text x="938.58" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Contacto</text>
+<text x="1033.5" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Administración</text>
+<text x="1171.75" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Salir</text>
+<rect x="0" y="69" width="1280" height="50.97" fill="#1f3d2f"/>
+<text x="90.39" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Tablero</text>
+<text x="177.45" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Pedidos</text>
+<rect x="255.17" y="116.97" width="80.83" height="3" fill="#f0935f"/>
+<text x="269.56" y="98.19" font-family="DM Sans" font-size="16" font-weight="700" fill="#ffffff">Menús</text>
+<text x="354.39" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Categorías</text>
+<text x="466.55" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Usuarios</text>
+<text x="563" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Consultas</text>
+<text x="266" y="201.97" font-family="DM Sans" font-size="16" font-weight="400" fill="#b84a1b">← Volver a los menús</text>
+<text x="266" y="264.56" font-family="Fraunces" font-size="41.6" font-weight="500" fill="#1f3d2f">Editar menú</text>
+<rect x="266.5" y="296.77" width="747" height="609.83" rx="10" fill="#ffffff" stroke="#d9d2c1" stroke-width="1"/>
+<text x="291" y="339.27" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Nombre</text>
+<rect x="291.5" y="352.16" width="697" height="45.78" rx="8" fill="#ffffff" stroke="#a9a696" stroke-width="1"/>
+<text x="304" y="380.65" font-family="DM Sans" font-size="16" font-weight="400" fill="#1d2a23">Box ejecutivo</text>
+<text x="291" y="432.44" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Categoría</text>
+<rect x="291.5" y="445.33" width="340" height="43.19" rx="8" fill="#ffffff" stroke="#a9a696" stroke-width="1"/>
+<text x="304" y="472.52" font-family="DM Sans" font-size="16" font-weight="400" fill="#1d2a23">Almuerzo de trabajo</text>
+<path d="M612 464.92l4 4l4 -4" fill="none" stroke="#1d2a23" stroke-width="1.5"/>
+<text x="648" y="432.44" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Ilustración</text>
+<rect x="648.5" y="445.33" width="340" height="43.19" rx="8" fill="#ffffff" stroke="#a9a696" stroke-width="1"/>
+<text x="661" y="472.52" font-family="DM Sans" font-size="16" font-weight="400" fill="#1d2a23">Vianda</text>
+<path d="M969 464.92l4 4l4 -4" fill="none" stroke="#1d2a23" stroke-width="1.5"/>
+<text x="291" y="523.02" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Precio por persona ($)</text>
+<rect x="291.5" y="535.91" width="340" height="45.78" rx="8" fill="#ffffff" stroke="#a9a696" stroke-width="1"/>
+<text x="304" y="564.4" font-family="DM Sans" font-size="16" font-weight="400" fill="#1d2a23">18500.00</text>
+<text x="648" y="523.02" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Mínimo de personas</text>
+<rect x="648.5" y="535.91" width="340" height="45.78" rx="8" fill="#ffffff" stroke="#a9a696" stroke-width="1"/>
+<text x="661" y="564.4" font-family="DM Sans" font-size="16" font-weight="400" fill="#1d2a23">5</text>
+<text x="291" y="616.19" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Descripción</text>
+<rect x="291.5" y="629.08" width="697" height="122.56" rx="8" fill="#ffffff" stroke="#a9a696" stroke-width="1"/>
+<text x="304" y="654.18" font-family="DM Sans" font-size="16" font-weight="400" fill="#1d2a23">Vianda individual con plato principal del día, ensalada, postre y agua saborizada.</text>
+<rect x="295.5" y="789.83" width="16.59" height="16.59" rx="3" fill="#ffffff" stroke="#767676"/>
+<text x="323.59" y="803.33" font-family="DM Sans" font-size="16" font-weight="400" fill="#1d2a23">Vegetariano</text>
+<rect x="440.34" y="789.83" width="16.59" height="16.59" rx="3" fill="#ffffff" stroke="#767676"/>
+<text x="468.44" y="803.33" font-family="DM Sans" font-size="16" font-weight="400" fill="#1d2a23">Sin TACC</text>
+<rect x="291" y="836.52" width="204.19" height="45.58" rx="8" fill="#b84a1b"/>
+<text x="312.19" y="863.91" font-family="DM Sans" font-size="16" font-weight="700" fill="#ffffff">Guardar los cambios</text>
+<rect x="0" y="991.09" width="1280" height="183.03" fill="#1f3d2f"/>
+<text x="76" y="1056.09" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#f8f4eb">Punto Catering</text>
+<text x="245.38" y="1056.09" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#f0935f">.</text>
+<text x="76" y="1092.94" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Catering para empresas, de la pausa de café a la cena de fin de</text>
+<text x="76" y="1118.53" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">año.</text>
+<text x="580" y="1049.09" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Catálogo</text>
+<text x="580" y="1080.28" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Pedir presupuesto</text>
+<text x="580" y="1111.47" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Contacto</text>
+<text x="844" y="1047.09" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#f8f4eb">Trabajo final de Programación Web - UCH</text>
+<text x="844" y="1069.61" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#f8f4eb">Bautista Navarro y Matias Porcari</text>
+</svg>

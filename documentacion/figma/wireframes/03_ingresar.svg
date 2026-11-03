@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850" fill="none">
+<rect width="1280" height="850" fill="#f4f4f4"/>
+<rect x="0" y="0" width="1280" height="850" fill="#f4f4f4"/>
+<rect x="0" y="0" width="1280" height="69" fill="#ffffff"/>
+<rect x="0" y="68" width="1280" height="1" fill="#d2d2d2"/>
+<text x="76" y="41.08" font-family="Inter" font-size="22.4" font-weight="700" fill="#323232">Punto Catering</text>
+<text x="245.38" y="41.08" font-family="Inter" font-size="22.4" font-weight="700" fill="#666666">.</text>
+<rect x="682.78" y="11.2" width="521.22" height="45.58" fill="#ffffff"/>
+<text x="682.78" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Inicio</text>
+<text x="747.06" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Catálogo</text>
+<text x="838.09" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Contacto</text>
+<text x="933.02" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Ingresar</text>
+<rect x="1017.81" y="11.2" width="186.19" height="45.58" rx="8" fill="#666666"/>
+<text x="1039" y="38.59" font-family="Inter" font-size="16" font-weight="700" fill="#ffffff">Pedir presupuesto</text>
+<text x="426" y="172" font-family="Inter" font-size="41.6" font-weight="500" fill="#323232">Ingresar</text>
+<text x="426" y="222.7" font-family="Inter" font-size="16.8" font-weight="400" fill="#5e5e5e">Accedé a tus pedidos y presupuestos.</text>
+<rect x="426.5" y="247.88" width="427" height="280.92" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="451" y="290.38" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Correo electrónico</text>
+<rect x="451.5" y="303.27" width="377" height="45.78" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<text x="451" y="383.55" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Contraseña</text>
+<rect x="451.5" y="396.44" width="377" height="45.78" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<rect x="451" y="458.72" width="378" height="45.58" rx="8" fill="#666666"/>
+<text x="607.88" y="486.11" font-family="Inter" font-size="16" font-weight="700" fill="#ffffff">Ingresar</text>
+<text x="438.34" y="567.3" font-family="Inter" font-size="16" font-weight="400" fill="#252525">¿Tu empresa todavía no tiene cuenta?</text>
+<text x="724.23" y="567.3" font-family="Inter" font-size="16" font-weight="400" fill="#666666">Registrala gratis</text>
+<rect x="0" y="666.97" width="1280" height="183.03" fill="#323232"/>
+<text x="76" y="731.97" font-family="Inter" font-size="22.4" font-weight="700" fill="#f4f4f4">Punto Catering</text>
+<text x="245.38" y="731.97" font-family="Inter" font-size="22.4" font-weight="700" fill="#a9a9a9">.</text>
+<text x="76" y="768.81" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Catering para empresas, de la pausa de café a la cena de fin de</text>
+<text x="76" y="794.41" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">año.</text>
+<text x="580" y="724.97" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Catálogo</text>
+<text x="580" y="756.16" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Pedir presupuesto</text>
+<text x="580" y="787.34" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Contacto</text>
+<text x="844" y="722.97" font-family="Inter" font-size="14.08" font-weight="400" fill="#f4f4f4">Trabajo final de Programación Web - UCH</text>
+<text x="844" y="745.48" font-family="Inter" font-size="14.08" font-weight="400" fill="#f4f4f4">Bautista Navarro y Matias Porcari</text>
+</svg>

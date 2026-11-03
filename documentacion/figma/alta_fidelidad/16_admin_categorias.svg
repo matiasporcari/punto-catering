@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="913" viewBox="0 0 1280 913" fill="none">
+<rect width="1280" height="913" fill="#f8f4eb"/>
+<rect x="0" y="0" width="1280" height="912.95" fill="#f8f4eb"/>
+<rect x="0" y="0" width="1280" height="69" fill="#ffffff"/>
+<rect x="0" y="68" width="1280" height="1" fill="#d9d2c1"/>
+<text x="76" y="41.08" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#1f3d2f">Punto Catering</text>
+<text x="245.38" y="41.08" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#b84a1b">.</text>
+<rect x="783.27" y="13.2" width="420.73" height="41.59" fill="#ffffff"/>
+<text x="783.27" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Inicio</text>
+<text x="847.55" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Catálogo</text>
+<text x="938.58" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Contacto</text>
+<text x="1033.5" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Administración</text>
+<text x="1171.75" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Salir</text>
+<rect x="0" y="69" width="1280" height="50.97" fill="#1f3d2f"/>
+<text x="90.39" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Tablero</text>
+<text x="177.45" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Pedidos</text>
+<text x="269.56" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Menús</text>
+<rect x="336.89" y="116.97" width="113.69" height="3" fill="#f0935f"/>
+<text x="351.28" y="98.19" font-family="DM Sans" font-size="16" font-weight="700" fill="#ffffff">Categorías</text>
+<text x="468.97" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Usuarios</text>
+<text x="565.42" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Consultas</text>
+<text x="76" y="222.97" font-family="Fraunces" font-size="41.6" font-weight="500" fill="#1f3d2f">Categorías</text>
+<rect x="76.5" y="255.17" width="663.8" height="351.69" rx="10" fill="#ffffff" stroke="#d9d2c1" stroke-width="1"/>
+<rect x="77" y="255.67" width="144.7" height="47.19" fill="#e3ece5"/>
+<rect x="77" y="301.86" width="144.7" height="1" fill="#efe8d8"/>
+<text x="91.39" y="283.86" font-family="DM Sans" font-size="15.2" font-weight="700" fill="#1f3d2f">Nombre</text>
+<rect x="221.7" y="255.67" width="324.17" height="47.19" fill="#e3ece5"/>
+<rect x="221.7" y="301.86" width="324.17" height="1" fill="#efe8d8"/>
+<text x="236.09" y="283.86" font-family="DM Sans" font-size="15.2" font-weight="700" fill="#1f3d2f">Descripción</text>
+<rect x="545.88" y="255.67" width="78.22" height="47.19" fill="#e3ece5"/>
+<rect x="545.88" y="301.86" width="78.22" height="1" fill="#efe8d8"/>
+<text x="560.27" y="283.86" font-family="DM Sans" font-size="15.2" font-weight="700" fill="#1f3d2f">Menús</text>
+<rect x="624.09" y="255.67" width="115.7" height="47.19" fill="#e3ece5"/>
+<rect x="624.09" y="301.86" width="115.7" height="1" fill="#efe8d8"/>
+<rect x="77" y="377.86" width="144.7" height="1" fill="#efe8d8"/>
+<text x="91.39" y="331.55" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Almuerzo de</text>
+<text x="91.39" y="355.86" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">trabajo</text>
+<rect x="221.7" y="377.86" width="324.17" height="1" fill="#efe8d8"/>
+<text x="236.09" y="331.55" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Viandas y platos para almorzar en la</text>
+<text x="236.09" y="355.86" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">oficina.</text>
+<rect x="545.88" y="377.86" width="78.22" height="1" fill="#efe8d8"/>
+<text x="600.72" y="331.55" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">3</text>
+<rect x="624.09" y="377.86" width="115.7" height="1" fill="#efe8d8"/>
+<text x="638.48" y="331.55" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Editar</text>
+<text x="638.48" y="359.86" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#a32c20">Eliminar</text>
+<rect x="77" y="453.86" width="144.7" height="1" fill="#efe8d8"/>
+<text x="91.39" y="407.55" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Cóctel</text>
+<rect x="221.7" y="453.86" width="324.17" height="1" fill="#efe8d8"/>
+<text x="236.09" y="407.55" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Bocados y bebidas para lanzamientos y</text>
+<text x="236.09" y="431.86" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">encuentros de equipo.</text>
+<rect x="545.88" y="453.86" width="78.22" height="1" fill="#efe8d8"/>
+<text x="600.94" y="407.55" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">2</text>
+<rect x="624.09" y="453.86" width="115.7" height="1" fill="#efe8d8"/>
+<text x="638.48" y="407.55" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Editar</text>
+<text x="638.48" y="435.86" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#a32c20">Eliminar</text>
+<rect x="77" y="529.86" width="144.7" height="1" fill="#efe8d8"/>
+<text x="91.39" y="483.55" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Coffee break</text>
+<rect x="221.7" y="529.86" width="324.17" height="1" fill="#efe8d8"/>
+<text x="236.09" y="483.55" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Pausas de café para reuniones,</text>
+<text x="236.09" y="507.86" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">capacitaciones y jornadas.</text>
+<rect x="545.88" y="529.86" width="78.22" height="1" fill="#efe8d8"/>
+<text x="600.72" y="483.55" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">3</text>
+<rect x="624.09" y="529.86" width="115.7" height="1" fill="#efe8d8"/>
+<text x="638.48" y="483.55" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Editar</text>
+<text x="638.48" y="511.86" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#a32c20">Eliminar</text>
+<text x="91.39" y="559.55" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Evento</text>
+<text x="91.39" y="583.86" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">corporativo</text>
+<text x="236.09" y="559.55" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Propuestas completas para aniversarios y</text>
+<text x="236.09" y="583.86" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">cierres de año.</text>
+<text x="600.94" y="559.55" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">2</text>
+<text x="638.48" y="559.55" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Editar</text>
+<text x="638.48" y="587.86" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#a32c20">Eliminar</text>
+<rect x="761.3" y="255.17" width="442.2" height="390.25" rx="10" fill="#ffffff" stroke="#d9d2c1" stroke-width="1"/>
+<text x="785.8" y="306.67" font-family="Fraunces" font-size="28.8" font-weight="500" fill="#1f3d2f">Agregar categoría</text>
+<text x="785.8" y="348.22" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Nombre</text>
+<rect x="786.3" y="361.11" width="392.2" height="45.78" rx="8" fill="#ffffff" stroke="#a9a696" stroke-width="1"/>
+<text x="785.8" y="441.39" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Descripción</text>
+<text x="880.38" y="441.39" font-family="DM Sans" font-size="16" font-weight="400" fill="#56635b">(opcional)</text>
+<rect x="786.3" y="454.28" width="392.2" height="96.97" rx="8" fill="#ffffff" stroke="#a9a696" stroke-width="1"/>
+<rect x="785.8" y="575.34" width="104.56" height="45.58" rx="8" fill="#b84a1b"/>
+<text x="806.98" y="602.73" font-family="DM Sans" font-size="16" font-weight="700" fill="#ffffff">Agregar</text>
+<rect x="0" y="729.92" width="1280" height="183.03" fill="#1f3d2f"/>
+<text x="76" y="794.92" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#f8f4eb">Punto Catering</text>
+<text x="245.38" y="794.92" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#f0935f">.</text>
+<text x="76" y="831.77" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Catering para empresas, de la pausa de café a la cena de fin de</text>
+<text x="76" y="857.36" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">año.</text>
+<text x="580" y="787.92" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Catálogo</text>
+<text x="580" y="819.11" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Pedir presupuesto</text>
+<text x="580" y="850.3" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Contacto</text>
+<text x="844" y="785.92" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#f8f4eb">Trabajo final de Programación Web - UCH</text>
+<text x="844" y="808.44" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#f8f4eb">Bautista Navarro y Matias Porcari</text>
+</svg>

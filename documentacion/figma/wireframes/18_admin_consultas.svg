@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1104" viewBox="0 0 1280 1104" fill="none">
+<rect width="1280" height="1104" fill="#f4f4f4"/>
+<rect x="0" y="0" width="1280" height="1104.28" fill="#f4f4f4"/>
+<rect x="0" y="0" width="1280" height="69" fill="#ffffff"/>
+<rect x="0" y="68" width="1280" height="1" fill="#d2d2d2"/>
+<text x="76" y="41.08" font-family="Inter" font-size="22.4" font-weight="700" fill="#323232">Punto Catering</text>
+<text x="245.38" y="41.08" font-family="Inter" font-size="22.4" font-weight="700" fill="#666666">.</text>
+<rect x="783.27" y="13.2" width="420.73" height="41.59" fill="#ffffff"/>
+<text x="783.27" y="39.2" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Inicio</text>
+<text x="847.55" y="39.2" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Catálogo</text>
+<text x="938.58" y="39.2" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Contacto</text>
+<text x="1033.5" y="39.2" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Administración</text>
+<text x="1171.75" y="39.2" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Salir</text>
+<rect x="0" y="69" width="1280" height="50.97" fill="#323232"/>
+<text x="90.39" y="98.19" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Tablero</text>
+<text x="177.45" y="98.19" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Pedidos</text>
+<text x="269.56" y="98.19" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Menús</text>
+<text x="351.28" y="98.19" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Categorías</text>
+<text x="463.44" y="98.19" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Usuarios</text>
+<rect x="545.5" y="116.97" width="107.66" height="3" fill="#a9a9a9"/>
+<text x="559.89" y="98.19" font-family="Inter" font-size="16" font-weight="700" fill="#ffffff">Consultas</text>
+<text x="266" y="222.97" font-family="Inter" font-size="41.6" font-weight="500" fill="#323232">Consultas</text>
+<rect x="266.5" y="255.17" width="747" height="179.86" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="291" y="296.67" font-family="Inter" font-size="18.4" font-weight="500" fill="#323232">Marina Ríos</text>
+<text x="291" y="319.75" font-family="Inter" font-size="16" font-weight="400" fill="#5e5e5e">Grupo Delta · marina@delta.test · 02/11/2026</text>
+<rect x="920.83" y="279.67" width="68.17" height="25.78" rx="12.89" fill="#f0f0f0"/>
+<text x="931.22" y="297.06" font-family="Inter" font-size="13.12" font-weight="700" fill="#505050">Sin leer</text>
+<text x="291" y="361.34" font-family="Inter" font-size="16" font-weight="400" fill="#252525">¿Trabajan en zona norte? Necesitamos un servicio mensual para unas 25 personas.</text>
+<text x="291" y="402.94" font-family="Inter" font-size="16" font-weight="400" fill="#666666">Responder por correo</text>
+<text x="467.95" y="402.94" font-family="Inter" font-size="16" font-weight="400" fill="#666666">Marcar como leída</text>
+<text x="619.77" y="402.94" font-family="Inter" font-size="16" font-weight="400" fill="#4e4e4e">Eliminar</text>
+<rect x="266.5" y="456.03" width="747" height="179.86" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="291" y="497.53" font-family="Inter" font-size="18.4" font-weight="500" fill="#323232">Pablo Acosta</text>
+<text x="291" y="520.61" font-family="Inter" font-size="16" font-weight="400" fill="#5e5e5e">Acosta y Asociados · pablo@acosta.test · 02/11/2026</text>
+<rect x="920.83" y="480.53" width="68.17" height="25.78" rx="12.89" fill="#f0f0f0"/>
+<text x="931.22" y="497.92" font-family="Inter" font-size="13.12" font-weight="700" fill="#505050">Sin leer</text>
+<text x="291" y="562.2" font-family="Inter" font-size="16" font-weight="400" fill="#252525">Quisiera saber con cuánta anticipación hay que pedir un cóctel para 100 personas.</text>
+<text x="291" y="603.8" font-family="Inter" font-size="16" font-weight="400" fill="#666666">Responder por correo</text>
+<text x="467.95" y="603.8" font-family="Inter" font-size="16" font-weight="400" fill="#666666">Marcar como leída</text>
+<text x="619.77" y="603.8" font-family="Inter" font-size="16" font-weight="400" fill="#4e4e4e">Eliminar</text>
+<rect x="266.5" y="656.89" width="747" height="179.86" rx="10" fill="#f9f9f9" stroke="#d2d2d2" stroke-width="1"/>
+<text x="291" y="698.39" font-family="Inter" font-size="18.4" font-weight="500" fill="#323232">Inés Gallo</text>
+<text x="291" y="721.47" font-family="Inter" font-size="16" font-weight="400" fill="#5e5e5e">ines@correo.test · 02/11/2026</text>
+<text x="291" y="763.06" font-family="Inter" font-size="16" font-weight="400" fill="#252525">¿Tienen opciones veganas para coffee break?</text>
+<text x="291" y="804.66" font-family="Inter" font-size="16" font-weight="400" fill="#666666">Responder por correo</text>
+<text x="467.95" y="804.66" font-family="Inter" font-size="16" font-weight="400" fill="#666666">Marcar sin leer</text>
+<text x="591.14" y="804.66" font-family="Inter" font-size="16" font-weight="400" fill="#4e4e4e">Eliminar</text>
+<rect x="0" y="921.25" width="1280" height="183.03" fill="#323232"/>
+<text x="76" y="986.25" font-family="Inter" font-size="22.4" font-weight="700" fill="#f4f4f4">Punto Catering</text>
+<text x="245.38" y="986.25" font-family="Inter" font-size="22.4" font-weight="700" fill="#a9a9a9">.</text>
+<text x="76" y="1023.09" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Catering para empresas, de la pausa de café a la cena de fin de</text>
+<text x="76" y="1048.69" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">año.</text>
+<text x="580" y="979.25" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Catálogo</text>
+<text x="580" y="1010.44" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Pedir presupuesto</text>
+<text x="580" y="1041.63" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Contacto</text>
+<text x="844" y="977.25" font-family="Inter" font-size="14.08" font-weight="400" fill="#f4f4f4">Trabajo final de Programación Web - UCH</text>
+<text x="844" y="999.77" font-family="Inter" font-size="14.08" font-weight="400" fill="#f4f4f4">Bautista Navarro y Matias Porcari</text>
+</svg>

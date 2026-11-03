@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="976" viewBox="0 0 1280 976" fill="none">
+<rect width="1280" height="976" fill="#f4f4f4"/>
+<rect x="0" y="0" width="1280" height="976.33" fill="#f4f4f4"/>
+<rect x="0" y="0" width="1280" height="69" fill="#ffffff"/>
+<rect x="0" y="68" width="1280" height="1" fill="#d2d2d2"/>
+<text x="76" y="41.08" font-family="Inter" font-size="22.4" font-weight="700" fill="#323232">Punto Catering</text>
+<text x="245.38" y="41.08" font-family="Inter" font-size="22.4" font-weight="700" fill="#666666">.</text>
+<rect x="783.27" y="13.2" width="420.73" height="41.59" fill="#ffffff"/>
+<text x="783.27" y="39.2" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Inicio</text>
+<text x="847.55" y="39.2" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Catálogo</text>
+<text x="938.58" y="39.2" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Contacto</text>
+<text x="1033.5" y="39.2" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Administración</text>
+<text x="1171.75" y="39.2" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Salir</text>
+<rect x="0" y="69" width="1280" height="50.97" fill="#323232"/>
+<rect x="76" y="116.97" width="86.88" height="3" fill="#a9a9a9"/>
+<text x="90.39" y="98.19" font-family="Inter" font-size="16" font-weight="700" fill="#ffffff">Tablero</text>
+<text x="181.27" y="98.19" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Pedidos</text>
+<text x="273.38" y="98.19" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Menús</text>
+<text x="355.09" y="98.19" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Categorías</text>
+<text x="467.25" y="98.19" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Usuarios</text>
+<text x="563.7" y="98.19" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Consultas</text>
+<text x="76" y="222.97" font-family="Inter" font-size="41.6" font-weight="500" fill="#323232">Tablero</text>
+<rect x="76.5" y="255.17" width="211.8" height="90.88" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="97" y="287.67" font-family="Inter" font-size="14.08" font-weight="400" fill="#5e5e5e">Pedidos por revisar</text>
+<text x="97" y="321.19" font-family="Inter" font-size="27.2" font-weight="500" fill="#323232">1</text>
+<rect x="305.3" y="255.17" width="211.8" height="90.88" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="325.8" y="287.67" font-family="Inter" font-size="14.08" font-weight="400" fill="#5e5e5e">Ingresos confirmados</text>
+<text x="325.8" y="321.19" font-family="Inter" font-size="27.2" font-weight="500" fill="#323232">$ 2.868.000</text>
+<rect x="534.09" y="255.17" width="211.8" height="90.88" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="554.59" y="287.67" font-family="Inter" font-size="14.08" font-weight="400" fill="#5e5e5e">Presupuestos en espera</text>
+<text x="554.59" y="321.19" font-family="Inter" font-size="27.2" font-weight="500" fill="#323232">$ 1.190.000</text>
+<rect x="762.89" y="255.17" width="211.8" height="90.88" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="783.39" y="287.67" font-family="Inter" font-size="14.08" font-weight="400" fill="#5e5e5e">Empresas activas</text>
+<text x="783.39" y="321.19" font-family="Inter" font-size="27.2" font-weight="500" fill="#323232">3</text>
+<rect x="991.69" y="255.17" width="211.81" height="90.88" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="1012.19" y="287.67" font-family="Inter" font-size="14.08" font-weight="400" fill="#5e5e5e">Consultas sin leer</text>
+<text x="1012.19" y="321.19" font-family="Inter" font-size="27.2" font-weight="500" fill="#323232">2</text>
+<rect x="76.5" y="371.05" width="553" height="337.75" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="101" y="422.55" font-family="Inter" font-size="28.8" font-weight="500" fill="#323232">Pedidos por estado</text>
+<text x="101" y="468.69" font-family="Inter" font-size="14.72" font-weight="400" fill="#252525">Pendiente</text>
+<rect x="249" y="458.47" width="312" height="12" fill="#f4f4f4"/>
+<rect x="249" y="458.47" width="156" height="12" fill="#4d4d4d"/>
+<text x="599.17" y="469.67" font-family="Inter" font-size="16" font-weight="700" fill="#252525">1</text>
+<text x="101" y="508.66" font-family="Inter" font-size="14.72" font-weight="400" fill="#252525">Presupuestado</text>
+<rect x="249" y="498.44" width="312" height="12" fill="#f4f4f4"/>
+<rect x="249" y="498.44" width="156" height="12" fill="#4d4d4d"/>
+<text x="599.17" y="509.64" font-family="Inter" font-size="16" font-weight="700" fill="#252525">1</text>
+<text x="101" y="548.63" font-family="Inter" font-size="14.72" font-weight="400" fill="#252525">Aprobado</text>
+<rect x="249" y="538.41" width="312" height="12" fill="#f4f4f4"/>
+<rect x="249" y="538.41" width="312" height="12" fill="#4d4d4d"/>
+<text x="595.77" y="549.61" font-family="Inter" font-size="16" font-weight="700" fill="#252525">2</text>
+<text x="101" y="588.59" font-family="Inter" font-size="14.72" font-weight="400" fill="#252525">Finalizado</text>
+<rect x="249" y="578.38" width="312" height="12" fill="#f4f4f4"/>
+<rect x="249" y="578.38" width="156" height="12" fill="#4d4d4d"/>
+<text x="599.17" y="589.58" font-family="Inter" font-size="16" font-weight="700" fill="#252525">1</text>
+<text x="101" y="628.56" font-family="Inter" font-size="14.72" font-weight="400" fill="#252525">Rechazado</text>
+<rect x="249" y="618.34" width="312" height="12" fill="#f4f4f4"/>
+<rect x="249" y="618.34" width="156" height="12" fill="#4d4d4d"/>
+<text x="599.17" y="629.55" font-family="Inter" font-size="16" font-weight="700" fill="#252525">1</text>
+<text x="101" y="668.53" font-family="Inter" font-size="14.72" font-weight="400" fill="#252525">Cancelado</text>
+<rect x="249" y="658.31" width="312" height="12" fill="#f4f4f4"/>
+<rect x="249" y="658.31" width="156" height="12" fill="#4d4d4d"/>
+<text x="599.17" y="669.52" font-family="Inter" font-size="16" font-weight="700" fill="#252525">1</text>
+<rect x="650.5" y="371.05" width="553" height="297.78" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="675" y="422.55" font-family="Inter" font-size="28.8" font-weight="500" fill="#323232">Menús más pedidos</text>
+<text x="675" y="468.69" font-family="Inter" font-size="14.72" font-weight="400" fill="#252525">Box ejecutivo</text>
+<rect x="823" y="458.47" width="312" height="12" fill="#f4f4f4"/>
+<rect x="823" y="458.47" width="312" height="12" fill="#4d4d4d"/>
+<text x="1173.17" y="469.67" font-family="Inter" font-size="16" font-weight="700" fill="#252525">1</text>
+<text x="675" y="508.66" font-family="Inter" font-size="14.72" font-weight="400" fill="#252525">Buffet aniversario</text>
+<rect x="823" y="498.44" width="312" height="12" fill="#f4f4f4"/>
+<rect x="823" y="498.44" width="312" height="12" fill="#4d4d4d"/>
+<text x="1173.17" y="509.64" font-family="Inter" font-size="16" font-weight="700" fill="#252525">1</text>
+<text x="675" y="548.63" font-family="Inter" font-size="14.72" font-weight="400" fill="#252525">Café clásico</text>
+<rect x="823" y="538.41" width="312" height="12" fill="#f4f4f4"/>
+<rect x="823" y="538.41" width="312" height="12" fill="#4d4d4d"/>
+<text x="1173.17" y="549.61" font-family="Inter" font-size="16" font-weight="700" fill="#252525">1</text>
+<text x="675" y="588.59" font-family="Inter" font-size="14.72" font-weight="400" fill="#252525">Cena de fin de año</text>
+<rect x="823" y="578.38" width="312" height="12" fill="#f4f4f4"/>
+<rect x="823" y="578.38" width="312" height="12" fill="#4d4d4d"/>
+<text x="1173.17" y="589.58" font-family="Inter" font-size="16" font-weight="700" fill="#252525">1</text>
+<text x="675" y="628.56" font-family="Inter" font-size="14.72" font-weight="400" fill="#252525">Cóctel afterwork</text>
+<rect x="823" y="618.34" width="312" height="12" fill="#f4f4f4"/>
+<rect x="823" y="618.34" width="312" height="12" fill="#4d4d4d"/>
+<text x="1173.17" y="629.55" font-family="Inter" font-size="16" font-weight="700" fill="#252525">1</text>
+<rect x="0" y="793.3" width="1280" height="183.03" fill="#323232"/>
+<text x="76" y="858.3" font-family="Inter" font-size="22.4" font-weight="700" fill="#f4f4f4">Punto Catering</text>
+<text x="245.38" y="858.3" font-family="Inter" font-size="22.4" font-weight="700" fill="#a9a9a9">.</text>
+<text x="76" y="895.14" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Catering para empresas, de la pausa de café a la cena de fin de</text>
+<text x="76" y="920.73" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">año.</text>
+<text x="580" y="851.3" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Catálogo</text>
+<text x="580" y="882.48" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Pedir presupuesto</text>
+<text x="580" y="913.67" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Contacto</text>
+<text x="844" y="849.3" font-family="Inter" font-size="14.08" font-weight="400" fill="#f4f4f4">Trabajo final de Programación Web - UCH</text>
+<text x="844" y="871.81" font-family="Inter" font-size="14.08" font-weight="400" fill="#f4f4f4">Bautista Navarro y Matias Porcari</text>
+</svg>

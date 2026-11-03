@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1026" viewBox="0 0 1280 1026" fill="none">
+<rect width="1280" height="1026" fill="#f8f4eb"/>
+<rect x="0" y="0" width="1280" height="1026.47" fill="#f8f4eb"/>
+<rect x="0" y="0" width="1280" height="69" fill="#ffffff"/>
+<rect x="0" y="68" width="1280" height="1" fill="#d9d2c1"/>
+<text x="76" y="41.08" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#1f3d2f">Punto Catering</text>
+<text x="245.38" y="41.08" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#b84a1b">.</text>
+<rect x="783.27" y="13.2" width="420.73" height="41.59" fill="#ffffff"/>
+<text x="783.27" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Inicio</text>
+<text x="847.55" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Catálogo</text>
+<text x="938.58" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Contacto</text>
+<text x="1033.5" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Administración</text>
+<text x="1171.75" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Salir</text>
+<rect x="0" y="69" width="1280" height="50.97" fill="#1f3d2f"/>
+<text x="90.39" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Tablero</text>
+<text x="177.45" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Pedidos</text>
+<rect x="255.17" y="116.97" width="80.83" height="3" fill="#f0935f"/>
+<text x="269.56" y="98.19" font-family="DM Sans" font-size="16" font-weight="700" fill="#ffffff">Menús</text>
+<text x="354.39" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Categorías</text>
+<text x="466.55" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Usuarios</text>
+<text x="563" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Consultas</text>
+<text x="76" y="222.97" font-family="Fraunces" font-size="41.6" font-weight="500" fill="#1f3d2f">Menús</text>
+<rect x="1027.75" y="186.13" width="176.25" height="45.58" rx="8" fill="#b84a1b"/>
+<text x="1048.94" y="213.52" font-family="DM Sans" font-size="16" font-weight="700" fill="#ffffff">Agregar un menú</text>
+<rect x="76.5" y="254.38" width="1127" height="524.56" rx="10" fill="#ffffff" stroke="#d9d2c1" stroke-width="1"/>
+<rect x="77" y="254.88" width="219.63" height="47.19" fill="#e3ece5"/>
+<rect x="77" y="301.06" width="219.63" height="1" fill="#efe8d8"/>
+<text x="91.39" y="283.06" font-family="DM Sans" font-size="15.2" font-weight="700" fill="#1f3d2f">Nombre</text>
+<rect x="296.63" y="254.88" width="230.14" height="47.19" fill="#e3ece5"/>
+<rect x="296.63" y="301.06" width="230.14" height="1" fill="#efe8d8"/>
+<text x="311.02" y="283.06" font-family="DM Sans" font-size="15.2" font-weight="700" fill="#1f3d2f">Categoría</text>
+<rect x="526.77" y="254.88" width="158.16" height="47.19" fill="#e3ece5"/>
+<rect x="526.77" y="301.06" width="158.16" height="1" fill="#efe8d8"/>
+<text x="581.56" y="283.06" font-family="DM Sans" font-size="15.2" font-weight="700" fill="#1f3d2f">Por persona</text>
+<rect x="684.92" y="254.88" width="112.06" height="47.19" fill="#e3ece5"/>
+<rect x="684.92" y="301.06" width="112.06" height="1" fill="#efe8d8"/>
+<text x="727.94" y="283.06" font-family="DM Sans" font-size="15.2" font-weight="700" fill="#1f3d2f">Mínimo</text>
+<rect x="796.98" y="254.88" width="127.84" height="47.19" fill="#e3ece5"/>
+<rect x="796.98" y="301.06" width="127.84" height="1" fill="#efe8d8"/>
+<text x="811.38" y="283.06" font-family="DM Sans" font-size="15.2" font-weight="700" fill="#1f3d2f">Catálogo</text>
+<rect x="924.83" y="254.88" width="278.17" height="47.19" fill="#e3ece5"/>
+<rect x="924.83" y="301.06" width="278.17" height="1" fill="#efe8d8"/>
+<rect x="77" y="348.75" width="219.63" height="1" fill="#efe8d8"/>
+<text x="91.39" y="330.75" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Box ejecutivo</text>
+<rect x="296.63" y="348.75" width="230.14" height="1" fill="#efe8d8"/>
+<text x="311.02" y="330.75" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Almuerzo de trabajo</text>
+<rect x="526.77" y="348.75" width="158.16" height="1" fill="#efe8d8"/>
+<text x="610.61" y="330.75" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">$ 18.500</text>
+<rect x="684.92" y="348.75" width="112.06" height="1" fill="#efe8d8"/>
+<text x="773.31" y="330.75" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">5</text>
+<rect x="796.98" y="348.75" width="127.84" height="1" fill="#efe8d8"/>
+<text x="811.38" y="330.75" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Visible</text>
+<rect x="924.83" y="348.75" width="278.17" height="1" fill="#efe8d8"/>
+<text x="939.22" y="330.75" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Editar</text>
+<text x="995.23" y="330.75" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Ocultar</text>
+<text x="1062.05" y="330.75" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#a32c20">Eliminar</text>
+<rect x="77" y="396.44" width="219.63" height="1" fill="#efe8d8"/>
+<text x="91.39" y="378.44" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Ensaladas de autor</text>
+<rect x="296.63" y="396.44" width="230.14" height="1" fill="#efe8d8"/>
+<text x="311.02" y="378.44" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Almuerzo de trabajo</text>
+<rect x="526.77" y="396.44" width="158.16" height="1" fill="#efe8d8"/>
+<text x="610.89" y="378.44" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">$ 16.500</text>
+<rect x="684.92" y="396.44" width="112.06" height="1" fill="#efe8d8"/>
+<text x="773.31" y="378.44" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">5</text>
+<rect x="796.98" y="396.44" width="127.84" height="1" fill="#efe8d8"/>
+<text x="811.38" y="378.44" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Visible</text>
+<rect x="924.83" y="396.44" width="278.17" height="1" fill="#efe8d8"/>
+<text x="939.22" y="378.44" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Editar</text>
+<text x="995.23" y="378.44" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Ocultar</text>
+<text x="1062.05" y="378.44" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#a32c20">Eliminar</text>
+<rect x="77" y="444.13" width="219.63" height="1" fill="#efe8d8"/>
+<text x="91.39" y="426.13" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Parrilla en la oficina</text>
+<rect x="296.63" y="444.13" width="230.14" height="1" fill="#efe8d8"/>
+<text x="311.02" y="426.13" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Almuerzo de trabajo</text>
+<rect x="526.77" y="444.13" width="158.16" height="1" fill="#efe8d8"/>
+<text x="606.36" y="426.13" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">$ 26.000</text>
+<rect x="684.92" y="444.13" width="112.06" height="1" fill="#efe8d8"/>
+<text x="768.58" y="426.13" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">15</text>
+<rect x="796.98" y="444.13" width="127.84" height="1" fill="#efe8d8"/>
+<text x="811.38" y="426.13" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Visible</text>
+<rect x="924.83" y="444.13" width="278.17" height="1" fill="#efe8d8"/>
+<text x="939.22" y="426.13" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Editar</text>
+<text x="995.23" y="426.13" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Ocultar</text>
+<text x="1062.05" y="426.13" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#a32c20">Eliminar</text>
+<rect x="77" y="491.81" width="219.63" height="1" fill="#efe8d8"/>
+<text x="91.39" y="473.81" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Cóctel afterwork</text>
+<rect x="296.63" y="491.81" width="230.14" height="1" fill="#efe8d8"/>
+<text x="311.02" y="473.81" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Cóctel</text>
+<rect x="526.77" y="491.81" width="158.16" height="1" fill="#efe8d8"/>
+<text x="606.56" y="473.81" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">$ 22.000</text>
+<rect x="684.92" y="491.81" width="112.06" height="1" fill="#efe8d8"/>
+<text x="763.59" y="473.81" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">20</text>
+<rect x="796.98" y="491.81" width="127.84" height="1" fill="#efe8d8"/>
+<text x="811.38" y="473.81" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Visible</text>
+<rect x="924.83" y="491.81" width="278.17" height="1" fill="#efe8d8"/>
+<text x="939.22" y="473.81" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Editar</text>
+<text x="995.23" y="473.81" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Ocultar</text>
+<text x="1062.05" y="473.81" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#a32c20">Eliminar</text>
+<rect x="77" y="539.5" width="219.63" height="1" fill="#efe8d8"/>
+<text x="91.39" y="521.5" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Cóctel verde</text>
+<rect x="296.63" y="539.5" width="230.14" height="1" fill="#efe8d8"/>
+<text x="311.02" y="521.5" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Cóctel</text>
+<rect x="526.77" y="539.5" width="158.16" height="1" fill="#efe8d8"/>
+<text x="610.58" y="521.5" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">$ 21.000</text>
+<rect x="684.92" y="539.5" width="112.06" height="1" fill="#efe8d8"/>
+<text x="763.59" y="521.5" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">20</text>
+<rect x="796.98" y="539.5" width="127.84" height="1" fill="#efe8d8"/>
+<text x="811.38" y="521.5" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Visible</text>
+<rect x="924.83" y="539.5" width="278.17" height="1" fill="#efe8d8"/>
+<text x="939.22" y="521.5" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Editar</text>
+<text x="995.23" y="521.5" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Ocultar</text>
+<text x="1062.05" y="521.5" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#a32c20">Eliminar</text>
+<rect x="77" y="587.19" width="219.63" height="1" fill="#efe8d8"/>
+<text x="91.39" y="569.19" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Café clásico</text>
+<rect x="296.63" y="587.19" width="230.14" height="1" fill="#efe8d8"/>
+<text x="311.02" y="569.19" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Coffee break</text>
+<rect x="526.77" y="587.19" width="158.16" height="1" fill="#efe8d8"/>
+<text x="615.5" y="569.19" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">$ 9.500</text>
+<rect x="684.92" y="587.19" width="112.06" height="1" fill="#efe8d8"/>
+<text x="767.45" y="569.19" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">10</text>
+<rect x="796.98" y="587.19" width="127.84" height="1" fill="#efe8d8"/>
+<text x="811.38" y="569.19" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Visible</text>
+<rect x="924.83" y="587.19" width="278.17" height="1" fill="#efe8d8"/>
+<text x="939.22" y="569.19" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Editar</text>
+<text x="995.23" y="569.19" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Ocultar</text>
+<text x="1062.05" y="569.19" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#a32c20">Eliminar</text>
+<rect x="77" y="634.88" width="219.63" height="1" fill="#efe8d8"/>
+<text x="91.39" y="616.88" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Desayuno energía</text>
+<rect x="296.63" y="634.88" width="230.14" height="1" fill="#efe8d8"/>
+<text x="311.02" y="616.88" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Coffee break</text>
+<rect x="526.77" y="634.88" width="158.16" height="1" fill="#efe8d8"/>
+<text x="610.86" y="616.88" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">$ 13.500</text>
+<rect x="684.92" y="634.88" width="112.06" height="1" fill="#efe8d8"/>
+<text x="767.45" y="616.88" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">10</text>
+<rect x="796.98" y="634.88" width="127.84" height="1" fill="#efe8d8"/>
+<text x="811.38" y="616.88" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Visible</text>
+<rect x="924.83" y="634.88" width="278.17" height="1" fill="#efe8d8"/>
+<text x="939.22" y="616.88" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Editar</text>
+<text x="995.23" y="616.88" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Ocultar</text>
+<text x="1062.05" y="616.88" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#a32c20">Eliminar</text>
+<rect x="77" y="682.56" width="219.63" height="1" fill="#efe8d8"/>
+<text x="91.39" y="664.56" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Pausa sin TACC</text>
+<rect x="296.63" y="682.56" width="230.14" height="1" fill="#efe8d8"/>
+<text x="311.02" y="664.56" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Coffee break</text>
+<rect x="526.77" y="682.56" width="158.16" height="1" fill="#efe8d8"/>
+<text x="610.63" y="664.56" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">$ 14.500</text>
+<rect x="684.92" y="682.56" width="112.06" height="1" fill="#efe8d8"/>
+<text x="767.45" y="664.56" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">10</text>
+<rect x="796.98" y="682.56" width="127.84" height="1" fill="#efe8d8"/>
+<text x="811.38" y="664.56" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Visible</text>
+<rect x="924.83" y="682.56" width="278.17" height="1" fill="#efe8d8"/>
+<text x="939.22" y="664.56" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Editar</text>
+<text x="995.23" y="664.56" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Ocultar</text>
+<text x="1062.05" y="664.56" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#a32c20">Eliminar</text>
+<rect x="77" y="730.25" width="219.63" height="1" fill="#efe8d8"/>
+<text x="91.39" y="712.25" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Buffet aniversario</text>
+<rect x="296.63" y="730.25" width="230.14" height="1" fill="#efe8d8"/>
+<text x="311.02" y="712.25" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Evento corporativo</text>
+<rect x="526.77" y="730.25" width="158.16" height="1" fill="#efe8d8"/>
+<text x="605.86" y="712.25" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">$ 34.000</text>
+<rect x="684.92" y="730.25" width="112.06" height="1" fill="#efe8d8"/>
+<text x="763.2" y="712.25" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">30</text>
+<rect x="796.98" y="730.25" width="127.84" height="1" fill="#efe8d8"/>
+<text x="811.38" y="712.25" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Visible</text>
+<rect x="924.83" y="730.25" width="278.17" height="1" fill="#efe8d8"/>
+<text x="939.22" y="712.25" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Editar</text>
+<text x="995.23" y="712.25" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Ocultar</text>
+<text x="1062.05" y="712.25" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#a32c20">Eliminar</text>
+<text x="91.39" y="759.94" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Cena de fin de año</text>
+<text x="311.02" y="759.94" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Evento corporativo</text>
+<text x="606.09" y="759.94" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">$ 42.000</text>
+<text x="762.97" y="759.94" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">40</text>
+<text x="811.38" y="759.94" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Visible</text>
+<text x="939.22" y="759.94" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Editar</text>
+<text x="995.23" y="759.94" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Ocultar</text>
+<text x="1062.05" y="759.94" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#a32c20">Eliminar</text>
+<rect x="0" y="843.44" width="1280" height="183.03" fill="#1f3d2f"/>
+<text x="76" y="908.44" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#f8f4eb">Punto Catering</text>
+<text x="245.38" y="908.44" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#f0935f">.</text>
+<text x="76" y="945.28" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Catering para empresas, de la pausa de café a la cena de fin de</text>
+<text x="76" y="970.88" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">año.</text>
+<text x="580" y="901.44" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Catálogo</text>
+<text x="580" y="932.63" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Pedir presupuesto</text>
+<text x="580" y="963.81" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Contacto</text>
+<text x="844" y="899.44" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#f8f4eb">Trabajo final de Programación Web - UCH</text>
+<text x="844" y="921.95" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#f8f4eb">Bautista Navarro y Matias Porcari</text>
+</svg>

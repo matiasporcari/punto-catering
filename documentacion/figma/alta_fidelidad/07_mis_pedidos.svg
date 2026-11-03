@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850" fill="none">
+<rect width="1280" height="850" fill="#f8f4eb"/>
+<rect x="0" y="0" width="1280" height="850" fill="#f8f4eb"/>
+<rect x="0" y="0" width="1280" height="69" fill="#ffffff"/>
+<rect x="0" y="68" width="1280" height="1" fill="#d9d2c1"/>
+<text x="76" y="41.08" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#1f3d2f">Punto Catering</text>
+<text x="245.38" y="41.08" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#b84a1b">.</text>
+<rect x="511.44" y="11.2" width="692.56" height="45.58" fill="#ffffff"/>
+<text x="511.44" y="39.19" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Inicio</text>
+<text x="575.72" y="39.19" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Catálogo</text>
+<text x="666.75" y="39.19" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Contacto</text>
+<text x="761.67" y="39.19" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Mis pedidos</text>
+<text x="877.19" y="39.19" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Mi perfil</text>
+<text x="961.56" y="39.19" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Salir</text>
+<rect x="1017.81" y="11.2" width="186.19" height="45.58" rx="8" fill="#b84a1b"/>
+<text x="1039" y="38.59" font-family="DM Sans" font-size="16" font-weight="700" fill="#ffffff">Pedir presupuesto</text>
+<text x="76" y="172" font-family="Fraunces" font-size="41.6" font-weight="500" fill="#1f3d2f">Mis pedidos</text>
+<text x="76" y="201.91" font-family="DM Sans" font-size="16.8" font-weight="400" fill="#56635b">Constructora Andina S.A.</text>
+<rect x="943.05" y="148.59" width="260.95" height="45.58" rx="8" fill="#b84a1b"/>
+<text x="964.23" y="175.98" font-family="DM Sans" font-size="16" font-weight="700" fill="#ffffff">Pedir un presupuesto nuevo</text>
+<rect x="76.5" y="230.28" width="1127" height="232.75" rx="10" fill="#ffffff" stroke="#d9d2c1" stroke-width="1"/>
+<rect x="77" y="230.78" width="64" height="47.19" fill="#e3ece5"/>
+<rect x="77" y="276.97" width="64" height="1" fill="#efe8d8"/>
+<text x="91.39" y="258.97" font-family="DM Sans" font-size="15.2" font-weight="700" fill="#1f3d2f">N.º</text>
+<rect x="141" y="230.78" width="193.58" height="47.19" fill="#e3ece5"/>
+<rect x="141" y="276.97" width="193.58" height="1" fill="#efe8d8"/>
+<text x="155.39" y="258.97" font-family="DM Sans" font-size="15.2" font-weight="700" fill="#1f3d2f">Evento</text>
+<rect x="334.58" y="230.78" width="299.2" height="47.19" fill="#e3ece5"/>
+<rect x="334.58" y="276.97" width="299.2" height="1" fill="#efe8d8"/>
+<text x="348.97" y="258.97" font-family="DM Sans" font-size="15.2" font-weight="700" fill="#1f3d2f">Menús</text>
+<rect x="633.78" y="230.78" width="121.25" height="47.19" fill="#e3ece5"/>
+<rect x="633.78" y="276.97" width="121.25" height="1" fill="#efe8d8"/>
+<text x="672.61" y="258.97" font-family="DM Sans" font-size="15.2" font-weight="700" fill="#1f3d2f">Personas</text>
+<rect x="755.03" y="230.78" width="133.66" height="47.19" fill="#e3ece5"/>
+<rect x="755.03" y="276.97" width="133.66" height="1" fill="#efe8d8"/>
+<text x="838.06" y="258.97" font-family="DM Sans" font-size="15.2" font-weight="700" fill="#1f3d2f">Total</text>
+<rect x="888.69" y="230.78" width="184.25" height="47.19" fill="#e3ece5"/>
+<rect x="888.69" y="276.97" width="184.25" height="1" fill="#efe8d8"/>
+<text x="903.08" y="258.97" font-family="DM Sans" font-size="15.2" font-weight="700" fill="#1f3d2f">Estado</text>
+<rect x="1072.94" y="230.78" width="130.06" height="47.19" fill="#e3ece5"/>
+<rect x="1072.94" y="276.97" width="130.06" height="1" fill="#efe8d8"/>
+<rect x="77" y="326.13" width="64" height="1" fill="#efe8d8"/>
+<text x="91.39" y="306.66" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">2</text>
+<rect x="141" y="326.13" width="193.58" height="1" fill="#efe8d8"/>
+<text x="155.39" y="306.66" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">18/12/2026 · 17:30</text>
+<rect x="334.58" y="326.13" width="299.2" height="1" fill="#efe8d8"/>
+<text x="348.97" y="306.66" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Café clásico, Cóctel afterwork</text>
+<rect x="633.78" y="326.13" width="121.25" height="1" fill="#efe8d8"/>
+<text x="721.02" y="306.66" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">40</text>
+<rect x="755.03" y="326.13" width="133.66" height="1" fill="#efe8d8"/>
+<text x="796.36" y="306.66" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">$ 1.190.000</text>
+<rect x="888.69" y="326.13" width="184.25" height="1" fill="#efe8d8"/>
+<rect x="903.08" y="289.66" width="118.34" height="25.78" rx="12.89" fill="#e2ecf7"/>
+<text x="913.47" y="307.05" font-family="DM Sans" font-size="13.12" font-weight="700" fill="#1d4c80">Presupuestado</text>
+<rect x="1072.94" y="326.13" width="130.06" height="1" fill="#efe8d8"/>
+<text x="1087.33" y="306.66" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Ver detalle</text>
+<rect x="77" y="394.08" width="64" height="1" fill="#efe8d8"/>
+<text x="91.39" y="355.81" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">1</text>
+<rect x="141" y="394.08" width="193.58" height="1" fill="#efe8d8"/>
+<text x="155.39" y="355.81" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">10/12/2026 · 13:00</text>
+<rect x="334.58" y="394.08" width="299.2" height="1" fill="#efe8d8"/>
+<text x="348.97" y="355.81" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Box ejecutivo</text>
+<rect x="633.78" y="394.08" width="121.25" height="1" fill="#efe8d8"/>
+<text x="721.25" y="355.81" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">30</text>
+<rect x="755.03" y="394.08" width="133.66" height="1" fill="#efe8d8"/>
+<text x="800.02" y="355.81" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">$ 555.000</text>
+<text x="819.41" y="377.13" font-family="DM Sans" font-size="12.67" font-weight="400" fill="#56635b">estimado</text>
+<rect x="888.69" y="394.08" width="184.25" height="1" fill="#efe8d8"/>
+<rect x="903.08" y="338.81" width="86.11" height="25.78" rx="12.89" fill="#fbf0d3"/>
+<text x="913.47" y="356.2" font-family="DM Sans" font-size="13.12" font-weight="700" fill="#6f4f00">Pendiente</text>
+<rect x="1072.94" y="394.08" width="130.06" height="1" fill="#efe8d8"/>
+<text x="1087.33" y="355.81" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Ver detalle</text>
+<text x="91.39" y="423.77" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">7</text>
+<text x="155.39" y="423.77" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">15/11/2026 · 12:00</text>
+<text x="348.97" y="423.77" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Parrilla en la oficina</text>
+<text x="721.64" y="423.77" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">20</text>
+<text x="800.44" y="423.77" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">$ 520.000</text>
+<text x="819.41" y="445.08" font-family="DM Sans" font-size="12.67" font-weight="400" fill="#56635b">estimado</text>
+<rect x="903.08" y="406.77" width="89.91" height="25.78" rx="12.89" fill="#e9e9e6"/>
+<text x="913.47" y="424.16" font-family="DM Sans" font-size="13.12" font-weight="700" fill="#56635b">Cancelado</text>
+<text x="1087.33" y="423.77" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#b84a1b">Ver detalle</text>
+<rect x="0" y="666.97" width="1280" height="183.03" fill="#1f3d2f"/>
+<text x="76" y="731.97" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#f8f4eb">Punto Catering</text>
+<text x="245.38" y="731.97" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#f0935f">.</text>
+<text x="76" y="768.81" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Catering para empresas, de la pausa de café a la cena de fin de</text>
+<text x="76" y="794.41" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">año.</text>
+<text x="580" y="724.97" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Catálogo</text>
+<text x="580" y="756.16" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Pedir presupuesto</text>
+<text x="580" y="787.34" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Contacto</text>
+<text x="844" y="722.97" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#f8f4eb">Trabajo final de Programación Web - UCH</text>
+<text x="844" y="745.48" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#f8f4eb">Bautista Navarro y Matias Porcari</text>
+</svg>

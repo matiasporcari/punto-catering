@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="2334" viewBox="0 0 1280 2334" fill="none">
+<rect width="1280" height="2334" fill="#f8f4eb"/>
+<rect x="0" y="0" width="1280" height="2334.31" fill="#f8f4eb"/>
+<rect x="0" y="0" width="1280" height="69" fill="#ffffff"/>
+<rect x="0" y="68" width="1280" height="1" fill="#d9d2c1"/>
+<text x="76" y="41.08" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#1f3d2f">Punto Catering</text>
+<text x="245.38" y="41.08" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#b84a1b">.</text>
+<rect x="511.44" y="11.2" width="692.56" height="45.58" fill="#ffffff"/>
+<text x="511.44" y="39.19" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Inicio</text>
+<text x="575.72" y="39.19" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Catálogo</text>
+<text x="666.75" y="39.19" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Contacto</text>
+<text x="761.67" y="39.19" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Mis pedidos</text>
+<text x="877.19" y="39.19" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Mi perfil</text>
+<text x="961.56" y="39.19" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Salir</text>
+<rect x="1017.81" y="11.2" width="186.19" height="45.58" rx="8" fill="#b84a1b"/>
+<text x="1039" y="38.59" font-family="DM Sans" font-size="16" font-weight="700" fill="#ffffff">Pedir presupuesto</text>
+<text x="76" y="172" font-family="Fraunces" font-size="41.6" font-weight="500" fill="#1f3d2f">Pedir presupuesto</text>
+<text x="76" y="222.7" font-family="DM Sans" font-size="16.8" font-weight="400" fill="#56635b">Completá los datos y mirá el precio estimado a medida que elegís.</text>
+<rect x="78.5" y="247.88" width="763" height="531.73" rx="10" fill="#ffffff" stroke="#d9d2c1" stroke-width="1"/>
+<text x="103" y="296.38" font-family="Fraunces" font-size="20.8" font-weight="500" fill="#1f3d2f">1. Datos del evento</text>
+<text x="103" y="339.64" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Fecha</text>
+<rect x="103.5" y="352.53" width="348" height="47.78" rx="8" fill="#ffffff" stroke="#a9a696" stroke-width="1"/>
+<text x="116" y="382.02" font-family="DM Sans" font-size="16" font-weight="400" fill="#1d2a23">18/12/2026</text>
+<text x="468" y="339.64" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Hora</text>
+<rect x="468.5" y="352.53" width="348" height="47.78" rx="8" fill="#ffffff" stroke="#a9a696" stroke-width="1"/>
+<text x="481" y="382.02" font-family="DM Sans" font-size="16" font-weight="400" fill="#1d2a23">17:30</text>
+<text x="103" y="434.81" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Dirección</text>
+<rect x="103.5" y="447.7" width="713" height="45.78" rx="8" fill="#ffffff" stroke="#a9a696" stroke-width="1"/>
+<text x="116" y="476.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#1d2a23">Av. Corrientes 1234, CABA</text>
+<text x="103" y="527.98" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Cantidad de personas</text>
+<rect x="103.5" y="540.88" width="713" height="45.78" rx="8" fill="#ffffff" stroke="#a9a696" stroke-width="1"/>
+<text x="116" y="569.37" font-family="DM Sans" font-size="16" font-weight="400" fill="#1d2a23">40</text>
+<text x="103" y="621.16" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Observaciones</text>
+<text x="220.13" y="621.16" font-family="DM Sans" font-size="16" font-weight="400" fill="#56635b">(opcional)</text>
+<rect x="103.5" y="634.05" width="713" height="96.97" rx="8" fill="#ffffff" stroke="#a9a696" stroke-width="1"/>
+<text x="116" y="659.15" font-family="DM Sans" font-size="16" font-weight="400" fill="#767676">Dietas especiales, acceso al edificio, etc.</text>
+<rect x="78.5" y="800.61" width="763" height="1266.17" rx="10" fill="#ffffff" stroke="#d9d2c1" stroke-width="1"/>
+<text x="103" y="849.11" font-family="Fraunces" font-size="20.8" font-weight="500" fill="#1f3d2f">2. Elegí los menús</text>
+<text x="103" y="891.38" font-family="Fraunces" font-size="18.4" font-weight="500" fill="#1f3d2f">Almuerzo de trabajo</text>
+<rect x="103.5" y="904.95" width="713" height="91.09" rx="8" fill="none" stroke="#d9d2c1" stroke-width="1"/>
+<rect x="120.5" y="921.14" width="16.59" height="16.59" rx="3" fill="#ffffff" stroke="#767676"/>
+<text x="152.59" y="935.45" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">Ensaladas de autor</text>
+<text x="152.59" y="956.05" font-family="DM Sans" font-size="13.33" font-weight="400" fill="#56635b">Tres ensaladas completas para elegir, con semillas, quesos y aderezos caseros.</text>
+<text x="152.59" y="977.89" font-family="DM Sans" font-size="13.33" font-weight="500" fill="#56635b">Desde 5 personas</text>
+<text x="738.63" y="935.45" font-family="DM Sans" font-size="16" font-weight="700" fill="#1f3d2f">$ 16.500</text>
+<rect x="103.5" y="1005.05" width="713" height="91.09" rx="8" fill="none" stroke="#d9d2c1" stroke-width="1"/>
+<rect x="120.5" y="1021.23" width="16.59" height="16.59" rx="3" fill="#ffffff" stroke="#767676"/>
+<text x="152.59" y="1035.55" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">Box ejecutivo</text>
+<text x="152.59" y="1056.14" font-family="DM Sans" font-size="13.33" font-weight="400" fill="#56635b">Vianda individual con plato principal del día, ensalada, postre y agua saborizada.</text>
+<text x="152.59" y="1077.98" font-family="DM Sans" font-size="13.33" font-weight="500" fill="#56635b">Desde 5 personas</text>
+<text x="738.13" y="1035.55" font-family="DM Sans" font-size="16" font-weight="700" fill="#1f3d2f">$ 18.500</text>
+<rect x="103.5" y="1105.14" width="713" height="91.09" rx="8" fill="none" stroke="#d9d2c1" stroke-width="1"/>
+<rect x="120.5" y="1121.33" width="16.59" height="16.59" rx="3" fill="#ffffff" stroke="#767676"/>
+<text x="152.59" y="1135.64" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">Parrilla en la oficina</text>
+<text x="152.59" y="1156.23" font-family="DM Sans" font-size="13.33" font-weight="400" fill="#56635b">Parrillero en el lugar con cortes seleccionados, guarniciones y ensaladas frescas.</text>
+<text x="152.59" y="1178.08" font-family="DM Sans" font-size="13.33" font-weight="500" fill="#56635b">Desde 15 personas</text>
+<text x="734.53" y="1135.64" font-family="DM Sans" font-size="16" font-weight="700" fill="#1f3d2f">$ 26.000</text>
+<text x="103" y="1233.73" font-family="Fraunces" font-size="18.4" font-weight="500" fill="#1f3d2f">Cóctel</text>
+<rect x="103.5" y="1247.31" width="713" height="91.09" rx="8" fill="none" stroke="#d9d2c1" stroke-width="1"/>
+<rect x="120.5" y="1263.5" width="16.59" height="16.59" rx="3" fill="#ffffff" stroke="#767676"/>
+<text x="152.59" y="1277.81" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">Cóctel verde</text>
+<text x="152.59" y="1298.41" font-family="DM Sans" font-size="13.33" font-weight="400" fill="#56635b">Bocados de vegetales de estación, dips y mini tartas, con vino y bebidas sin alcohol.</text>
+<text x="152.59" y="1320.25" font-family="DM Sans" font-size="13.33" font-weight="500" fill="#56635b">Desde 20 personas</text>
+<text x="738.31" y="1277.81" font-family="DM Sans" font-size="16" font-weight="700" fill="#1f3d2f">$ 21.000</text>
+<rect x="103.5" y="1347.41" width="713" height="91.09" rx="8" fill="none" stroke="#d9d2c1" stroke-width="1"/>
+<rect x="120.5" y="1363.59" width="16.59" height="16.59" rx="3" fill="#b84a1b" stroke="#b84a1b"/>
+<path d="M124 1371.89l3 3l6 -7" fill="none" stroke="#ffffff" stroke-width="2"/>
+<text x="152.59" y="1377.91" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">Cóctel afterwork</text>
+<text x="152.59" y="1398.5" font-family="DM Sans" font-size="13.33" font-weight="400" fill="#56635b">Doce bocados fríos y calientes, cerveza artesanal, vino y bebidas sin alcohol.</text>
+<text x="152.59" y="1420.34" font-family="DM Sans" font-size="13.33" font-weight="500" fill="#56635b">Desde 20 personas</text>
+<text x="734.91" y="1377.91" font-family="DM Sans" font-size="16" font-weight="700" fill="#1f3d2f">$ 22.000</text>
+<text x="103" y="1476" font-family="Fraunces" font-size="18.4" font-weight="500" fill="#1f3d2f">Coffee break</text>
+<rect x="103.5" y="1489.58" width="713" height="91.09" rx="8" fill="#fdf5ef" fill-opacity="0.12" stroke="#d5c2ad" stroke-width="1"/>
+<rect x="120.5" y="1505.77" width="16.59" height="16.59" rx="3" fill="#b84a1b" stroke="#b84a1b"/>
+<path d="M124 1514.06l3 3l6 -7" fill="none" stroke="#ffffff" stroke-width="2"/>
+<text x="152.59" y="1520.08" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">Café clásico</text>
+<text x="152.59" y="1540.67" font-family="DM Sans" font-size="13.33" font-weight="400" fill="#56635b">Café de especialidad, té, jugo de naranja, medialunas y budines caseros.</text>
+<text x="152.59" y="1562.52" font-family="DM Sans" font-size="13.33" font-weight="500" fill="#56635b">Desde 10 personas</text>
+<text x="744.39" y="1520.08" font-family="DM Sans" font-size="16" font-weight="700" fill="#1f3d2f">$ 9.500</text>
+<rect x="103.5" y="1589.67" width="713" height="91.09" rx="8" fill="none" stroke="#d9d2c1" stroke-width="1"/>
+<rect x="120.5" y="1605.86" width="16.59" height="16.59" rx="3" fill="#ffffff" stroke="#767676"/>
+<text x="152.59" y="1620.17" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">Desayuno energía</text>
+<text x="152.59" y="1640.77" font-family="DM Sans" font-size="13.33" font-weight="400" fill="#56635b">Café, licuados, yogur con granola, fruta de estación y tostados integrales.</text>
+<text x="152.59" y="1662.61" font-family="DM Sans" font-size="13.33" font-weight="500" fill="#56635b">Desde 10 personas</text>
+<text x="738.58" y="1620.17" font-family="DM Sans" font-size="16" font-weight="700" fill="#1f3d2f">$ 13.500</text>
+<rect x="103.5" y="1689.77" width="713" height="109.75" rx="8" fill="none" stroke="#d9d2c1" stroke-width="1"/>
+<rect x="120.5" y="1705.95" width="16.59" height="16.59" rx="3" fill="#ffffff" stroke="#767676"/>
+<text x="152.59" y="1720.27" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">Pausa sin TACC</text>
+<text x="152.59" y="1740.86" font-family="DM Sans" font-size="13.33" font-weight="400" fill="#56635b">Café, té, jugo natural, pan de queso, cookies de almendra y fruta. Elaboración certificada sin</text>
+<text x="152.59" y="1759.52" font-family="DM Sans" font-size="13.33" font-weight="400" fill="#56635b">TACC.</text>
+<text x="152.59" y="1781.36" font-family="DM Sans" font-size="13.33" font-weight="500" fill="#56635b">Desde 10 personas</text>
+<text x="737.83" y="1720.27" font-family="DM Sans" font-size="16" font-weight="700" fill="#1f3d2f">$ 14.500</text>
+<text x="103" y="1837.02" font-family="Fraunces" font-size="18.4" font-weight="500" fill="#1f3d2f">Evento corporativo</text>
+<rect x="103.5" y="1850.59" width="713" height="91.09" rx="8" fill="none" stroke="#d9d2c1" stroke-width="1"/>
+<rect x="120.5" y="1866.78" width="16.59" height="16.59" rx="3" fill="#ffffff" stroke="#767676"/>
+<text x="152.59" y="1881.09" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">Buffet aniversario</text>
+<text x="152.59" y="1901.69" font-family="DM Sans" font-size="13.33" font-weight="400" fill="#56635b">Mesa de entradas, dos platos principales, mesa dulce y bebidas. Incluye mozos.</text>
+<text x="152.59" y="1923.53" font-family="DM Sans" font-size="13.33" font-weight="500" fill="#56635b">Desde 30 personas</text>
+<text x="733.31" y="1881.09" font-family="DM Sans" font-size="16" font-weight="700" fill="#1f3d2f">$ 34.000</text>
+<rect x="103.5" y="1950.69" width="713" height="91.09" rx="8" fill="none" stroke="#d9d2c1" stroke-width="1"/>
+<rect x="120.5" y="1966.88" width="16.59" height="16.59" rx="3" fill="#ffffff" stroke="#767676"/>
+<text x="152.59" y="1981.19" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">Cena de fin de año</text>
+<text x="152.59" y="2001.78" font-family="DM Sans" font-size="13.33" font-weight="400" fill="#56635b">Recepción, entrada, principal, postre, brindis y bebidas. Incluye vajilla y mozos.</text>
+<text x="152.59" y="2023.63" font-family="DM Sans" font-size="13.33" font-weight="500" fill="#56635b">Desde 40 personas</text>
+<text x="733.73" y="1981.19" font-family="DM Sans" font-size="16" font-weight="700" fill="#1f3d2f">$ 42.000</text>
+<rect x="864.5" y="247.88" width="339" height="375.67" rx="10" fill="#ffffff" stroke="#d9d2c1" stroke-width="1"/>
+<text x="889" y="299.38" font-family="Fraunces" font-size="28.8" font-weight="500" fill="#1f3d2f">Tu presupuesto</text>
+<rect x="889" y="356.81" width="290" height="1" fill="#d9d2c1"/>
+<text x="889" y="343.91" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Cóctel afterwork</text>
+<text x="1104.27" y="343.91" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">$ 880.000</text>
+<rect x="889" y="393.31" width="290" height="1" fill="#d9d2c1"/>
+<text x="889" y="380.41" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">Café clásico</text>
+<text x="1104.53" y="380.41" font-family="DM Sans" font-size="15.2" font-weight="400" fill="#1d2a23">$ 380.000</text>
+<text x="889" y="428.31" font-family="DM Sans" font-size="16" font-weight="400" fill="#1d2a23">Personas</text>
+<text x="1157.33" y="428.31" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">40</text>
+<text x="889" y="476.91" font-family="DM Sans" font-size="16" font-weight="400" fill="#1d2a23">Total estimado</text>
+<text x="1007.7" y="476.91" font-family="Fraunces" font-size="28.8" font-weight="700" fill="#1f3d2f">$ 1.260.000</text>
+<text x="889" y="512.97" font-family="DM Sans" font-size="13.6" font-weight="400" fill="#56635b">Es un valor orientativo. El precio final aparece</text>
+<text x="889" y="534.72" font-family="DM Sans" font-size="13.6" font-weight="400" fill="#56635b">en tu cuenta cuando revisamos el pedido.</text>
+<rect x="889" y="553.47" width="290" height="45.58" rx="8" fill="#b84a1b"/>
+<text x="968.66" y="580.86" font-family="DM Sans" font-size="16" font-weight="700" fill="#ffffff">Enviar mi pedido</text>
+<rect x="0" y="2151.28" width="1280" height="183.03" fill="#1f3d2f"/>
+<text x="76" y="2216.28" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#f8f4eb">Punto Catering</text>
+<text x="245.38" y="2216.28" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#f0935f">.</text>
+<text x="76" y="2253.13" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Catering para empresas, de la pausa de café a la cena de fin de</text>
+<text x="76" y="2278.72" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">año.</text>
+<text x="580" y="2209.28" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Catálogo</text>
+<text x="580" y="2240.47" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Pedir presupuesto</text>
+<text x="580" y="2271.66" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Contacto</text>
+<text x="844" y="2207.28" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#f8f4eb">Trabajo final de Programación Web - UCH</text>
+<text x="844" y="2229.8" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#f8f4eb">Bautista Navarro y Matias Porcari</text>
+</svg>

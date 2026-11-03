@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1093" viewBox="0 0 1280 1093" fill="none">
+<rect width="1280" height="1093" fill="#f4f4f4"/>
+<rect x="0" y="0" width="1280" height="1092.64" fill="#f4f4f4"/>
+<rect x="0" y="0" width="1280" height="69" fill="#ffffff"/>
+<rect x="0" y="68" width="1280" height="1" fill="#d2d2d2"/>
+<text x="76" y="41.08" font-family="Inter" font-size="22.4" font-weight="700" fill="#323232">Punto Catering</text>
+<text x="245.38" y="41.08" font-family="Inter" font-size="22.4" font-weight="700" fill="#666666">.</text>
+<rect x="682.78" y="11.2" width="521.22" height="45.58" fill="#ffffff"/>
+<text x="682.78" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Inicio</text>
+<text x="747.06" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Catálogo</text>
+<text x="838.09" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Contacto</text>
+<text x="933.02" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Ingresar</text>
+<rect x="1017.81" y="11.2" width="186.19" height="45.58" rx="8" fill="#666666"/>
+<text x="1039" y="38.59" font-family="Inter" font-size="16" font-weight="700" fill="#ffffff">Pedir presupuesto</text>
+<text x="266" y="172" font-family="Inter" font-size="41.6" font-weight="500" fill="#323232">Contacto</text>
+<text x="266" y="222.7" font-family="Inter" font-size="16.8" font-weight="400" fill="#5e5e5e">¿Necesitás algo a medida? Contanos y te respondemos por correo.</text>
+<rect x="266.5" y="247.88" width="747" height="577.23" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="291" y="290.38" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Nombre</text>
+<rect x="291.5" y="303.27" width="697" height="45.78" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<text x="291" y="383.55" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Empresa</text>
+<text x="361.13" y="383.55" font-family="Inter" font-size="16" font-weight="400" fill="#5e5e5e">(opcional)</text>
+<rect x="291.5" y="396.44" width="697" height="45.78" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<text x="291" y="476.72" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Correo electrónico</text>
+<rect x="291.5" y="489.61" width="697" height="45.78" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<text x="291" y="569.89" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Consulta</text>
+<rect x="291.5" y="582.78" width="697" height="148.16" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<rect x="291" y="755.03" width="186.14" height="45.58" rx="8" fill="#666666"/>
+<text x="312.19" y="782.42" font-family="Inter" font-size="16" font-weight="700" fill="#ffffff">Enviar mi consulta</text>
+<rect x="0" y="909.61" width="1280" height="183.03" fill="#323232"/>
+<text x="76" y="974.61" font-family="Inter" font-size="22.4" font-weight="700" fill="#f4f4f4">Punto Catering</text>
+<text x="245.38" y="974.61" font-family="Inter" font-size="22.4" font-weight="700" fill="#a9a9a9">.</text>
+<text x="76" y="1011.45" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Catering para empresas, de la pausa de café a la cena de fin de</text>
+<text x="76" y="1037.05" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">año.</text>
+<text x="580" y="967.61" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Catálogo</text>
+<text x="580" y="998.8" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Pedir presupuesto</text>
+<text x="580" y="1029.98" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Contacto</text>
+<text x="844" y="965.61" font-family="Inter" font-size="14.08" font-weight="400" fill="#f4f4f4">Trabajo final de Programación Web - UCH</text>
+<text x="844" y="988.13" font-family="Inter" font-size="14.08" font-weight="400" fill="#f4f4f4">Bautista Navarro y Matias Porcari</text>
+</svg>

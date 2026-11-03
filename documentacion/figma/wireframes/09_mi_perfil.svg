@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1249" viewBox="0 0 1280 1249" fill="none">
+<rect width="1280" height="1249" fill="#f4f4f4"/>
+<rect x="0" y="0" width="1280" height="1248.84" fill="#f4f4f4"/>
+<rect x="0" y="0" width="1280" height="69" fill="#ffffff"/>
+<rect x="0" y="68" width="1280" height="1" fill="#d2d2d2"/>
+<text x="76" y="41.08" font-family="Inter" font-size="22.4" font-weight="700" fill="#323232">Punto Catering</text>
+<text x="245.38" y="41.08" font-family="Inter" font-size="22.4" font-weight="700" fill="#666666">.</text>
+<rect x="511.44" y="11.2" width="692.56" height="45.58" fill="#ffffff"/>
+<text x="511.44" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Inicio</text>
+<text x="575.72" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Catálogo</text>
+<text x="666.75" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Contacto</text>
+<text x="761.67" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Mis pedidos</text>
+<text x="877.19" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Mi perfil</text>
+<text x="961.56" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Salir</text>
+<rect x="1017.81" y="11.2" width="186.19" height="45.58" rx="8" fill="#666666"/>
+<text x="1039" y="38.59" font-family="Inter" font-size="16" font-weight="700" fill="#ffffff">Pedir presupuesto</text>
+<text x="266" y="172" font-family="Inter" font-size="41.6" font-weight="500" fill="#323232">Mi perfil</text>
+<rect x="266.5" y="204.2" width="747" height="424.64" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="291" y="255.7" font-family="Inter" font-size="28.8" font-weight="500" fill="#323232">Datos de la empresa</text>
+<text x="291" y="297.25" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Razón social</text>
+<rect x="291.5" y="310.14" width="340" height="45.78" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<text x="304" y="338.63" font-family="Inter" font-size="16" font-weight="400" fill="#252525">Constructora Andina S.A.</text>
+<text x="648" y="297.25" font-family="Inter" font-size="16" font-weight="500" fill="#252525">CUIT</text>
+<rect x="648.5" y="310.14" width="340" height="45.78" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<text x="661" y="338.63" font-family="Inter" font-size="16" font-weight="400" fill="#252525">30-11111111-2</text>
+<text x="291" y="390.42" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Persona de contacto</text>
+<rect x="291.5" y="403.31" width="340" height="45.78" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<text x="304" y="431.8" font-family="Inter" font-size="16" font-weight="400" fill="#252525">Laura Méndez</text>
+<text x="648" y="390.42" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Teléfono</text>
+<rect x="648.5" y="403.31" width="340" height="45.78" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<text x="661" y="431.8" font-family="Inter" font-size="16" font-weight="400" fill="#252525">11 4111-1111</text>
+<text x="291" y="483.59" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Correo electrónico</text>
+<rect x="291.5" y="496.48" width="697" height="45.78" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<text x="304" y="524.98" font-family="Inter" font-size="16" font-weight="400" fill="#252525">compras@andina.test</text>
+<rect x="291" y="558.77" width="187.09" height="45.58" rx="8" fill="#666666"/>
+<text x="312.19" y="586.16" font-family="Inter" font-size="16" font-weight="700" fill="#ffffff">Guardar mis datos</text>
+<rect x="266.5" y="649.84" width="747" height="331.47" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="291" y="701.34" font-family="Inter" font-size="28.8" font-weight="500" fill="#323232">Cambiar contraseña</text>
+<text x="291" y="742.89" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Contraseña actual</text>
+<rect x="291.5" y="755.78" width="697" height="45.78" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<text x="291" y="836.06" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Contraseña nueva</text>
+<rect x="291.5" y="848.95" width="340" height="45.78" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<text x="648" y="836.06" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Repetir contraseña nueva</text>
+<rect x="648.5" y="848.95" width="340" height="45.78" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<rect x="292" y="912.23" width="223.95" height="43.58" rx="8" fill="none" stroke="#4d4d4d" stroke-width="2"/>
+<text x="312.19" y="938.63" font-family="Inter" font-size="16" font-weight="700" fill="#323232">Cambiar mi contraseña</text>
+<rect x="0" y="1065.81" width="1280" height="183.03" fill="#323232"/>
+<text x="76" y="1130.81" font-family="Inter" font-size="22.4" font-weight="700" fill="#f4f4f4">Punto Catering</text>
+<text x="245.38" y="1130.81" font-family="Inter" font-size="22.4" font-weight="700" fill="#a9a9a9">.</text>
+<text x="76" y="1167.66" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Catering para empresas, de la pausa de café a la cena de fin de</text>
+<text x="76" y="1193.25" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">año.</text>
+<text x="580" y="1123.81" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Catálogo</text>
+<text x="580" y="1155" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Pedir presupuesto</text>
+<text x="580" y="1186.19" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Contacto</text>
+<text x="844" y="1121.81" font-family="Inter" font-size="14.08" font-weight="400" fill="#f4f4f4">Trabajo final de Programación Web - UCH</text>
+<text x="844" y="1144.33" font-family="Inter" font-size="14.08" font-weight="400" fill="#f4f4f4">Bautista Navarro y Matias Porcari</text>
+</svg>

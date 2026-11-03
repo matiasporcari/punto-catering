@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="2614" viewBox="0 0 1280 2614" fill="none">
+<rect width="1280" height="2614" fill="#f4f4f4"/>
+<rect x="0" y="0" width="1280" height="2614.02" fill="#f4f4f4"/>
+<rect x="0" y="0" width="1280" height="69" fill="#ffffff"/>
+<rect x="0" y="68" width="1280" height="1" fill="#d2d2d2"/>
+<text x="76" y="41.08" font-family="Inter" font-size="22.4" font-weight="700" fill="#323232">Punto Catering</text>
+<text x="245.38" y="41.08" font-family="Inter" font-size="22.4" font-weight="700" fill="#666666">.</text>
+<rect x="682.78" y="11.2" width="521.22" height="45.58" fill="#ffffff"/>
+<text x="682.78" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Inicio</text>
+<text x="747.06" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Catálogo</text>
+<text x="838.09" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Contacto</text>
+<text x="933.02" y="39.19" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Ingresar</text>
+<rect x="1017.81" y="11.2" width="186.19" height="45.58" rx="8" fill="#666666"/>
+<text x="1039" y="38.59" font-family="Inter" font-size="16" font-weight="700" fill="#ffffff">Pedir presupuesto</text>
+<text x="76" y="172" font-family="Inter" font-size="41.6" font-weight="500" fill="#323232">Catálogo de menús</text>
+<text x="76" y="222.7" font-family="Inter" font-size="16.8" font-weight="400" fill="#5e5e5e">Precios por persona. Filtrá por ocasión o por necesidad alimentaria.</text>
+<rect x="76.5" y="247.88" width="1127" height="110.17" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="97" y="282.38" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Buscar</text>
+<rect x="97.5" y="295.27" width="607.36" height="45.78" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<text x="110" y="323.76" font-family="Inter" font-size="16" font-weight="400" fill="#767676">Por ejemplo: café, ensalada…</text>
+<text x="725.36" y="284.97" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Categoría</text>
+<rect x="725.86" y="297.86" width="196" height="43.19" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<text x="738.36" y="325.05" font-family="Inter" font-size="16" font-weight="400" fill="#252525">Todas</text>
+<path d="M902.36 317.45l4 4l4 -4" fill="none" stroke="#1d2a23" stroke-width="1.5"/>
+<rect x="946.86" y="310.86" width="16.59" height="16.59" rx="3" fill="#ffffff" stroke="#767676"/>
+<text x="974.95" y="324.36" font-family="Inter" font-size="16" font-weight="400" fill="#252525">Vegetariano</text>
+<rect x="1087.7" y="310.86" width="16.59" height="16.59" rx="3" fill="#ffffff" stroke="#767676"/>
+<text x="1115.8" y="324.36" font-family="Inter" font-size="16" font-weight="400" fill="#252525">Sin TACC</text>
+<text x="76" y="391.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">10 menús</text>
+<rect x="76.5" y="411.36" width="361.66" height="485.19" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<rect x="77" y="411.86" width="360.66" height="216.39" fill="#d8d8d8" stroke="#8a8a8a"/>
+<path d="M77 411.86L437.66 628.25M437.66 411.86L77 628.25" stroke="#8a8a8a" fill="none"/>
+<text x="97" y="659.84" font-family="Inter" font-size="12.8" font-weight="700" fill="#666666" letter-spacing="1.02">ALMUERZO DE TRABAJO</text>
+<text x="97" y="688.42" font-family="Inter" font-size="18.4" font-weight="500" fill="#323232">Ensaladas de autor</text>
+<text x="97" y="719.69" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">Tres ensaladas completas para elegir, con</text>
+<text x="97" y="744" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">semillas, quesos y aderezos caseros.</text>
+<rect x="97" y="790.81" width="91.44" height="23.66" rx="11.83" fill="#e9e9e9"/>
+<text x="106.59" y="806.41" font-family="Inter" font-size="12.8" font-weight="500" fill="#323232">Vegetariano</text>
+<rect x="194.83" y="790.81" width="73.75" height="23.66" rx="11.83" fill="#e9e9e9"/>
+<text x="204.42" y="806.41" font-family="Inter" font-size="12.8" font-weight="500" fill="#323232">Sin TACC</text>
+<rect x="274.97" y="790.81" width="127.8" height="23.66" rx="11.83" fill="#e8e8e8"/>
+<text x="284.56" y="806.41" font-family="Inter" font-size="12.8" font-weight="500" fill="#5e5e5e">Desde 5 personas</text>
+<text x="97" y="850.14" font-family="Inter" font-size="19.2" font-weight="700" fill="#323232">$ 16.500</text>
+<text x="97" y="870.17" font-family="Inter" font-size="12.8" font-weight="400" fill="#5e5e5e">por persona</text>
+<rect x="245.63" y="831.47" width="171.03" height="43.58" rx="8" fill="none" stroke="#4d4d4d" stroke-width="2"/>
+<text x="265.81" y="857.86" font-family="Inter" font-size="16" font-weight="700" fill="#323232">Lo quiero cotizar</text>
+<rect x="459.16" y="411.36" width="361.67" height="485.19" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<rect x="459.66" y="411.86" width="360.67" height="216.39" fill="#d8d8d8" stroke="#8a8a8a"/>
+<path d="M459.66 411.86L820.33 628.25M820.33 411.86L459.66 628.25" stroke="#8a8a8a" fill="none"/>
+<text x="479.66" y="659.84" font-family="Inter" font-size="12.8" font-weight="700" fill="#666666" letter-spacing="1.02">ALMUERZO DE TRABAJO</text>
+<text x="479.66" y="688.42" font-family="Inter" font-size="18.4" font-weight="500" fill="#323232">Box ejecutivo</text>
+<text x="479.66" y="719.69" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">Vianda individual con plato principal del día,</text>
+<text x="479.66" y="744" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">ensalada, postre y agua saborizada.</text>
+<rect x="479.66" y="790.81" width="127.8" height="23.66" rx="11.83" fill="#e8e8e8"/>
+<text x="489.25" y="806.41" font-family="Inter" font-size="12.8" font-weight="500" fill="#5e5e5e">Desde 5 personas</text>
+<text x="479.66" y="850.14" font-family="Inter" font-size="19.2" font-weight="700" fill="#323232">$ 18.500</text>
+<text x="479.66" y="870.17" font-family="Inter" font-size="12.8" font-weight="400" fill="#5e5e5e">por persona</text>
+<rect x="628.3" y="831.47" width="171.03" height="43.58" rx="8" fill="none" stroke="#4d4d4d" stroke-width="2"/>
+<text x="648.48" y="857.86" font-family="Inter" font-size="16" font-weight="700" fill="#323232">Lo quiero cotizar</text>
+<rect x="841.83" y="411.36" width="361.66" height="485.19" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<rect x="842.33" y="411.86" width="360.66" height="216.39" fill="#d8d8d8" stroke="#8a8a8a"/>
+<path d="M842.33 411.86L1202.98 628.25M1202.98 411.86L842.33 628.25" stroke="#8a8a8a" fill="none"/>
+<text x="862.33" y="659.84" font-family="Inter" font-size="12.8" font-weight="700" fill="#666666" letter-spacing="1.02">ALMUERZO DE TRABAJO</text>
+<text x="862.33" y="688.42" font-family="Inter" font-size="18.4" font-weight="500" fill="#323232">Parrilla en la oficina</text>
+<text x="862.33" y="719.69" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">Parrillero en el lugar con cortes</text>
+<text x="862.33" y="744" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">seleccionados, guarniciones y ensaladas</text>
+<text x="862.33" y="768.31" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">frescas.</text>
+<rect x="862.33" y="790.81" width="73.75" height="23.66" rx="11.83" fill="#e9e9e9"/>
+<text x="871.92" y="806.41" font-family="Inter" font-size="12.8" font-weight="500" fill="#323232">Sin TACC</text>
+<rect x="942.47" y="790.81" width="132" height="23.66" rx="11.83" fill="#e8e8e8"/>
+<text x="952.06" y="806.41" font-family="Inter" font-size="12.8" font-weight="500" fill="#5e5e5e">Desde 15 personas</text>
+<text x="862.33" y="850.14" font-family="Inter" font-size="19.2" font-weight="700" fill="#323232">$ 26.000</text>
+<text x="862.33" y="870.17" font-family="Inter" font-size="12.8" font-weight="400" fill="#5e5e5e">por persona</text>
+<rect x="1010.95" y="831.47" width="171.03" height="43.58" rx="8" fill="none" stroke="#4d4d4d" stroke-width="2"/>
+<text x="1031.14" y="857.86" font-family="Inter" font-size="16" font-weight="700" fill="#323232">Lo quiero cotizar</text>
+<rect x="76.5" y="917.55" width="361.66" height="460.88" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<rect x="77" y="918.05" width="360.66" height="216.39" fill="#d8d8d8" stroke="#8a8a8a"/>
+<path d="M77 918.05L437.66 1134.44M437.66 918.05L77 1134.44" stroke="#8a8a8a" fill="none"/>
+<text x="97" y="1166.03" font-family="Inter" font-size="12.8" font-weight="700" fill="#666666" letter-spacing="1.02">CÓCTEL</text>
+<text x="97" y="1194.61" font-family="Inter" font-size="18.4" font-weight="500" fill="#323232">Cóctel verde</text>
+<text x="97" y="1225.88" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">Bocados de vegetales de estación, dips y</text>
+<text x="97" y="1250.19" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">mini tartas, con vino y bebidas sin alcohol.</text>
+<rect x="97" y="1272.69" width="91.44" height="23.66" rx="11.83" fill="#e9e9e9"/>
+<text x="106.59" y="1288.28" font-family="Inter" font-size="12.8" font-weight="500" fill="#323232">Vegetariano</text>
+<rect x="194.83" y="1272.69" width="136.06" height="23.66" rx="11.83" fill="#e8e8e8"/>
+<text x="204.42" y="1288.28" font-family="Inter" font-size="12.8" font-weight="500" fill="#5e5e5e">Desde 20 personas</text>
+<text x="97" y="1332.02" font-family="Inter" font-size="19.2" font-weight="700" fill="#323232">$ 21.000</text>
+<text x="97" y="1352.05" font-family="Inter" font-size="12.8" font-weight="400" fill="#5e5e5e">por persona</text>
+<rect x="245.63" y="1313.34" width="171.03" height="43.58" rx="8" fill="none" stroke="#4d4d4d" stroke-width="2"/>
+<text x="265.81" y="1339.73" font-family="Inter" font-size="16" font-weight="700" fill="#323232">Lo quiero cotizar</text>
+<rect x="459.16" y="917.55" width="361.67" height="460.88" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<rect x="459.66" y="918.05" width="360.67" height="216.39" fill="#d8d8d8" stroke="#8a8a8a"/>
+<path d="M459.66 918.05L820.33 1134.44M820.33 918.05L459.66 1134.44" stroke="#8a8a8a" fill="none"/>
+<text x="479.66" y="1166.03" font-family="Inter" font-size="12.8" font-weight="700" fill="#666666" letter-spacing="1.02">CÓCTEL</text>
+<text x="479.66" y="1194.61" font-family="Inter" font-size="18.4" font-weight="500" fill="#323232">Cóctel afterwork</text>
+<text x="479.66" y="1225.88" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">Doce bocados fríos y calientes, cerveza</text>
+<text x="479.66" y="1250.19" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">artesanal, vino y bebidas sin alcohol.</text>
+<rect x="479.66" y="1272.69" width="136.06" height="23.66" rx="11.83" fill="#e8e8e8"/>
+<text x="489.25" y="1288.28" font-family="Inter" font-size="12.8" font-weight="500" fill="#5e5e5e">Desde 20 personas</text>
+<text x="479.66" y="1332.02" font-family="Inter" font-size="19.2" font-weight="700" fill="#323232">$ 22.000</text>
+<text x="479.66" y="1352.05" font-family="Inter" font-size="12.8" font-weight="400" fill="#5e5e5e">por persona</text>
+<rect x="628.3" y="1313.34" width="171.03" height="43.58" rx="8" fill="none" stroke="#4d4d4d" stroke-width="2"/>
+<text x="648.48" y="1339.73" font-family="Inter" font-size="16" font-weight="700" fill="#323232">Lo quiero cotizar</text>
+<rect x="841.83" y="917.55" width="361.66" height="460.88" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<rect x="842.33" y="918.05" width="360.66" height="216.39" fill="#d8d8d8" stroke="#8a8a8a"/>
+<path d="M842.33 918.05L1202.98 1134.44M1202.98 918.05L842.33 1134.44" stroke="#8a8a8a" fill="none"/>
+<text x="862.33" y="1166.03" font-family="Inter" font-size="12.8" font-weight="700" fill="#666666" letter-spacing="1.02">COFFEE BREAK</text>
+<text x="862.33" y="1194.61" font-family="Inter" font-size="18.4" font-weight="500" fill="#323232">Café clásico</text>
+<text x="862.33" y="1225.88" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">Café de especialidad, té, jugo de naranja,</text>
+<text x="862.33" y="1250.19" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">medialunas y budines caseros.</text>
+<rect x="862.33" y="1272.69" width="91.44" height="23.66" rx="11.83" fill="#e9e9e9"/>
+<text x="871.92" y="1288.28" font-family="Inter" font-size="12.8" font-weight="500" fill="#323232">Vegetariano</text>
+<rect x="960.16" y="1272.69" width="132.98" height="23.66" rx="11.83" fill="#e8e8e8"/>
+<text x="969.75" y="1288.28" font-family="Inter" font-size="12.8" font-weight="500" fill="#5e5e5e">Desde 10 personas</text>
+<text x="862.33" y="1332.02" font-family="Inter" font-size="19.2" font-weight="700" fill="#323232">$ 9.500</text>
+<text x="862.33" y="1352.05" font-family="Inter" font-size="12.8" font-weight="400" fill="#5e5e5e">por persona</text>
+<rect x="1010.95" y="1313.34" width="171.03" height="43.58" rx="8" fill="none" stroke="#4d4d4d" stroke-width="2"/>
+<text x="1031.14" y="1339.73" font-family="Inter" font-size="16" font-weight="700" fill="#323232">Lo quiero cotizar</text>
+<rect x="76.5" y="1399.42" width="361.66" height="485.19" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<rect x="77" y="1399.92" width="360.66" height="216.39" fill="#d8d8d8" stroke="#8a8a8a"/>
+<path d="M77 1399.92L437.66 1616.31M437.66 1399.92L77 1616.31" stroke="#8a8a8a" fill="none"/>
+<text x="97" y="1647.91" font-family="Inter" font-size="12.8" font-weight="700" fill="#666666" letter-spacing="1.02">COFFEE BREAK</text>
+<text x="97" y="1676.48" font-family="Inter" font-size="18.4" font-weight="500" fill="#323232">Desayuno energía</text>
+<text x="97" y="1707.75" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">Café, licuados, yogur con granola, fruta de</text>
+<text x="97" y="1732.06" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">estación y tostados integrales.</text>
+<rect x="97" y="1778.88" width="91.44" height="23.66" rx="11.83" fill="#e9e9e9"/>
+<text x="106.59" y="1794.47" font-family="Inter" font-size="12.8" font-weight="500" fill="#323232">Vegetariano</text>
+<rect x="194.83" y="1778.88" width="132.98" height="23.66" rx="11.83" fill="#e8e8e8"/>
+<text x="204.42" y="1794.47" font-family="Inter" font-size="12.8" font-weight="500" fill="#5e5e5e">Desde 10 personas</text>
+<text x="97" y="1838.2" font-family="Inter" font-size="19.2" font-weight="700" fill="#323232">$ 13.500</text>
+<text x="97" y="1858.23" font-family="Inter" font-size="12.8" font-weight="400" fill="#5e5e5e">por persona</text>
+<rect x="245.63" y="1819.53" width="171.03" height="43.58" rx="8" fill="none" stroke="#4d4d4d" stroke-width="2"/>
+<text x="265.81" y="1845.92" font-family="Inter" font-size="16" font-weight="700" fill="#323232">Lo quiero cotizar</text>
+<rect x="459.16" y="1399.42" width="361.67" height="485.19" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<rect x="459.66" y="1399.92" width="360.67" height="216.39" fill="#d8d8d8" stroke="#8a8a8a"/>
+<path d="M459.66 1399.92L820.33 1616.31M820.33 1399.92L459.66 1616.31" stroke="#8a8a8a" fill="none"/>
+<text x="479.66" y="1647.91" font-family="Inter" font-size="12.8" font-weight="700" fill="#666666" letter-spacing="1.02">COFFEE BREAK</text>
+<text x="479.66" y="1676.48" font-family="Inter" font-size="18.4" font-weight="500" fill="#323232">Pausa sin TACC</text>
+<text x="479.66" y="1707.75" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">Café, té, jugo natural, pan de queso, cookies</text>
+<text x="479.66" y="1732.06" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">de almendra y fruta. Elaboración certificada</text>
+<text x="479.66" y="1756.38" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">sin TACC.</text>
+<rect x="479.66" y="1778.88" width="91.44" height="23.66" rx="11.83" fill="#e9e9e9"/>
+<text x="489.25" y="1794.47" font-family="Inter" font-size="12.8" font-weight="500" fill="#323232">Vegetariano</text>
+<rect x="577.48" y="1778.88" width="73.75" height="23.66" rx="11.83" fill="#e9e9e9"/>
+<text x="587.08" y="1794.47" font-family="Inter" font-size="12.8" font-weight="500" fill="#323232">Sin TACC</text>
+<rect x="657.63" y="1778.88" width="132.98" height="23.66" rx="11.83" fill="#e8e8e8"/>
+<text x="667.22" y="1794.47" font-family="Inter" font-size="12.8" font-weight="500" fill="#5e5e5e">Desde 10 personas</text>
+<text x="479.66" y="1838.2" font-family="Inter" font-size="19.2" font-weight="700" fill="#323232">$ 14.500</text>
+<text x="479.66" y="1858.23" font-family="Inter" font-size="12.8" font-weight="400" fill="#5e5e5e">por persona</text>
+<rect x="628.3" y="1819.53" width="171.03" height="43.58" rx="8" fill="none" stroke="#4d4d4d" stroke-width="2"/>
+<text x="648.48" y="1845.92" font-family="Inter" font-size="16" font-weight="700" fill="#323232">Lo quiero cotizar</text>
+<rect x="841.83" y="1399.42" width="361.66" height="485.19" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<rect x="842.33" y="1399.92" width="360.66" height="216.39" fill="#d8d8d8" stroke="#8a8a8a"/>
+<path d="M842.33 1399.92L1202.98 1616.31M1202.98 1399.92L842.33 1616.31" stroke="#8a8a8a" fill="none"/>
+<text x="862.33" y="1647.91" font-family="Inter" font-size="12.8" font-weight="700" fill="#666666" letter-spacing="1.02">EVENTO CORPORATIVO</text>
+<text x="862.33" y="1676.48" font-family="Inter" font-size="18.4" font-weight="500" fill="#323232">Buffet aniversario</text>
+<text x="862.33" y="1707.75" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">Mesa de entradas, dos platos principales,</text>
+<text x="862.33" y="1732.06" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">mesa dulce y bebidas. Incluye mozos.</text>
+<rect x="862.33" y="1778.88" width="136.41" height="23.66" rx="11.83" fill="#e8e8e8"/>
+<text x="871.92" y="1794.47" font-family="Inter" font-size="12.8" font-weight="500" fill="#5e5e5e">Desde 30 personas</text>
+<text x="862.33" y="1838.2" font-family="Inter" font-size="19.2" font-weight="700" fill="#323232">$ 34.000</text>
+<text x="862.33" y="1858.23" font-family="Inter" font-size="12.8" font-weight="400" fill="#5e5e5e">por persona</text>
+<rect x="1010.95" y="1819.53" width="171.03" height="43.58" rx="8" fill="none" stroke="#4d4d4d" stroke-width="2"/>
+<text x="1031.14" y="1845.92" font-family="Inter" font-size="16" font-weight="700" fill="#323232">Lo quiero cotizar</text>
+<rect x="76.5" y="1905.61" width="361.66" height="460.88" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<rect x="77" y="1906.11" width="360.66" height="216.39" fill="#d8d8d8" stroke="#8a8a8a"/>
+<path d="M77 1906.11L437.66 2122.5M437.66 1906.11L77 2122.5" stroke="#8a8a8a" fill="none"/>
+<text x="97" y="2154.09" font-family="Inter" font-size="12.8" font-weight="700" fill="#666666" letter-spacing="1.02">EVENTO CORPORATIVO</text>
+<text x="97" y="2182.67" font-family="Inter" font-size="18.4" font-weight="500" fill="#323232">Cena de fin de año</text>
+<text x="97" y="2213.94" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">Recepción, entrada, principal, postre, brindis</text>
+<text x="97" y="2238.25" font-family="Inter" font-size="15.2" font-weight="400" fill="#5e5e5e">y bebidas. Incluye vajilla y mozos.</text>
+<rect x="97" y="2260.75" width="136.73" height="23.66" rx="11.83" fill="#e8e8e8"/>
+<text x="106.59" y="2276.34" font-family="Inter" font-size="12.8" font-weight="500" fill="#5e5e5e">Desde 40 personas</text>
+<text x="97" y="2320.08" font-family="Inter" font-size="19.2" font-weight="700" fill="#323232">$ 42.000</text>
+<text x="97" y="2340.11" font-family="Inter" font-size="12.8" font-weight="400" fill="#5e5e5e">por persona</text>
+<rect x="245.63" y="2301.41" width="171.03" height="43.58" rx="8" fill="none" stroke="#4d4d4d" stroke-width="2"/>
+<text x="265.81" y="2327.8" font-family="Inter" font-size="16" font-weight="700" fill="#323232">Lo quiero cotizar</text>
+<rect x="0" y="2430.98" width="1280" height="183.03" fill="#323232"/>
+<text x="76" y="2495.98" font-family="Inter" font-size="22.4" font-weight="700" fill="#f4f4f4">Punto Catering</text>
+<text x="245.38" y="2495.98" font-family="Inter" font-size="22.4" font-weight="700" fill="#a9a9a9">.</text>
+<text x="76" y="2532.83" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Catering para empresas, de la pausa de café a la cena de fin de</text>
+<text x="76" y="2558.42" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">año.</text>
+<text x="580" y="2488.98" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Catálogo</text>
+<text x="580" y="2520.17" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Pedir presupuesto</text>
+<text x="580" y="2551.36" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Contacto</text>
+<text x="844" y="2486.98" font-family="Inter" font-size="14.08" font-weight="400" fill="#f4f4f4">Trabajo final de Programación Web - UCH</text>
+<text x="844" y="2509.5" font-family="Inter" font-size="14.08" font-weight="400" fill="#f4f4f4">Bautista Navarro y Matias Porcari</text>
+</svg>

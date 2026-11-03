@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="913" viewBox="0 0 1280 913" fill="none">
+<rect width="1280" height="913" fill="#f4f4f4"/>
+<rect x="0" y="0" width="1280" height="912.95" fill="#f4f4f4"/>
+<rect x="0" y="0" width="1280" height="69" fill="#ffffff"/>
+<rect x="0" y="68" width="1280" height="1" fill="#d2d2d2"/>
+<text x="76" y="41.08" font-family="Inter" font-size="22.4" font-weight="700" fill="#323232">Punto Catering</text>
+<text x="245.38" y="41.08" font-family="Inter" font-size="22.4" font-weight="700" fill="#666666">.</text>
+<rect x="783.27" y="13.2" width="420.73" height="41.59" fill="#ffffff"/>
+<text x="783.27" y="39.2" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Inicio</text>
+<text x="847.55" y="39.2" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Catálogo</text>
+<text x="938.58" y="39.2" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Contacto</text>
+<text x="1033.5" y="39.2" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Administración</text>
+<text x="1171.75" y="39.2" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Salir</text>
+<rect x="0" y="69" width="1280" height="50.97" fill="#323232"/>
+<text x="90.39" y="98.19" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Tablero</text>
+<text x="177.45" y="98.19" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Pedidos</text>
+<text x="269.56" y="98.19" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Menús</text>
+<rect x="336.89" y="116.97" width="113.69" height="3" fill="#a9a9a9"/>
+<text x="351.28" y="98.19" font-family="Inter" font-size="16" font-weight="700" fill="#ffffff">Categorías</text>
+<text x="468.97" y="98.19" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Usuarios</text>
+<text x="565.42" y="98.19" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Consultas</text>
+<text x="76" y="222.97" font-family="Inter" font-size="41.6" font-weight="500" fill="#323232">Categorías</text>
+<rect x="76.5" y="255.17" width="663.8" height="351.69" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<rect x="77" y="255.67" width="144.7" height="47.19" fill="#e9e9e9"/>
+<rect x="77" y="301.86" width="144.7" height="1" fill="#e8e8e8"/>
+<text x="91.39" y="283.86" font-family="Inter" font-size="15.2" font-weight="700" fill="#323232">Nombre</text>
+<rect x="221.7" y="255.67" width="324.17" height="47.19" fill="#e9e9e9"/>
+<rect x="221.7" y="301.86" width="324.17" height="1" fill="#e8e8e8"/>
+<text x="236.09" y="283.86" font-family="Inter" font-size="15.2" font-weight="700" fill="#323232">Descripción</text>
+<rect x="545.88" y="255.67" width="78.22" height="47.19" fill="#e9e9e9"/>
+<rect x="545.88" y="301.86" width="78.22" height="1" fill="#e8e8e8"/>
+<text x="560.27" y="283.86" font-family="Inter" font-size="15.2" font-weight="700" fill="#323232">Menús</text>
+<rect x="624.09" y="255.67" width="115.7" height="47.19" fill="#e9e9e9"/>
+<rect x="624.09" y="301.86" width="115.7" height="1" fill="#e8e8e8"/>
+<rect x="77" y="377.86" width="144.7" height="1" fill="#e8e8e8"/>
+<text x="91.39" y="331.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">Almuerzo de</text>
+<text x="91.39" y="355.86" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">trabajo</text>
+<rect x="221.7" y="377.86" width="324.17" height="1" fill="#e8e8e8"/>
+<text x="236.09" y="331.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">Viandas y platos para almorzar en la</text>
+<text x="236.09" y="355.86" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">oficina.</text>
+<rect x="545.88" y="377.86" width="78.22" height="1" fill="#e8e8e8"/>
+<text x="600.72" y="331.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">3</text>
+<rect x="624.09" y="377.86" width="115.7" height="1" fill="#e8e8e8"/>
+<text x="638.48" y="331.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#666666">Editar</text>
+<text x="638.48" y="359.86" font-family="Inter" font-size="15.2" font-weight="400" fill="#4e4e4e">Eliminar</text>
+<rect x="77" y="453.86" width="144.7" height="1" fill="#e8e8e8"/>
+<text x="91.39" y="407.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">Cóctel</text>
+<rect x="221.7" y="453.86" width="324.17" height="1" fill="#e8e8e8"/>
+<text x="236.09" y="407.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">Bocados y bebidas para lanzamientos y</text>
+<text x="236.09" y="431.86" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">encuentros de equipo.</text>
+<rect x="545.88" y="453.86" width="78.22" height="1" fill="#e8e8e8"/>
+<text x="600.94" y="407.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">2</text>
+<rect x="624.09" y="453.86" width="115.7" height="1" fill="#e8e8e8"/>
+<text x="638.48" y="407.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#666666">Editar</text>
+<text x="638.48" y="435.86" font-family="Inter" font-size="15.2" font-weight="400" fill="#4e4e4e">Eliminar</text>
+<rect x="77" y="529.86" width="144.7" height="1" fill="#e8e8e8"/>
+<text x="91.39" y="483.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">Coffee break</text>
+<rect x="221.7" y="529.86" width="324.17" height="1" fill="#e8e8e8"/>
+<text x="236.09" y="483.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">Pausas de café para reuniones,</text>
+<text x="236.09" y="507.86" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">capacitaciones y jornadas.</text>
+<rect x="545.88" y="529.86" width="78.22" height="1" fill="#e8e8e8"/>
+<text x="600.72" y="483.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">3</text>
+<rect x="624.09" y="529.86" width="115.7" height="1" fill="#e8e8e8"/>
+<text x="638.48" y="483.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#666666">Editar</text>
+<text x="638.48" y="511.86" font-family="Inter" font-size="15.2" font-weight="400" fill="#4e4e4e">Eliminar</text>
+<text x="91.39" y="559.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">Evento</text>
+<text x="91.39" y="583.86" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">corporativo</text>
+<text x="236.09" y="559.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">Propuestas completas para aniversarios y</text>
+<text x="236.09" y="583.86" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">cierres de año.</text>
+<text x="600.94" y="559.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#252525">2</text>
+<text x="638.48" y="559.55" font-family="Inter" font-size="15.2" font-weight="400" fill="#666666">Editar</text>
+<text x="638.48" y="587.86" font-family="Inter" font-size="15.2" font-weight="400" fill="#4e4e4e">Eliminar</text>
+<rect x="761.3" y="255.17" width="442.2" height="390.25" rx="10" fill="#ffffff" stroke="#d2d2d2" stroke-width="1"/>
+<text x="785.8" y="306.67" font-family="Inter" font-size="28.8" font-weight="500" fill="#323232">Agregar categoría</text>
+<text x="785.8" y="348.22" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Nombre</text>
+<rect x="786.3" y="361.11" width="392.2" height="45.78" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<text x="785.8" y="441.39" font-family="Inter" font-size="16" font-weight="500" fill="#252525">Descripción</text>
+<text x="880.38" y="441.39" font-family="Inter" font-size="16" font-weight="400" fill="#5e5e5e">(opcional)</text>
+<rect x="786.3" y="454.28" width="392.2" height="96.97" rx="8" fill="#ffffff" stroke="#a5a5a5" stroke-width="1"/>
+<rect x="785.8" y="575.34" width="104.56" height="45.58" rx="8" fill="#666666"/>
+<text x="806.98" y="602.73" font-family="Inter" font-size="16" font-weight="700" fill="#ffffff">Agregar</text>
+<rect x="0" y="729.92" width="1280" height="183.03" fill="#323232"/>
+<text x="76" y="794.92" font-family="Inter" font-size="22.4" font-weight="700" fill="#f4f4f4">Punto Catering</text>
+<text x="245.38" y="794.92" font-family="Inter" font-size="22.4" font-weight="700" fill="#a9a9a9">.</text>
+<text x="76" y="831.77" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Catering para empresas, de la pausa de café a la cena de fin de</text>
+<text x="76" y="857.36" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">año.</text>
+<text x="580" y="787.92" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Catálogo</text>
+<text x="580" y="819.11" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Pedir presupuesto</text>
+<text x="580" y="850.3" font-family="Inter" font-size="16" font-weight="400" fill="#f4f4f4">Contacto</text>
+<text x="844" y="785.92" font-family="Inter" font-size="14.08" font-weight="400" fill="#f4f4f4">Trabajo final de Programación Web - UCH</text>
+<text x="844" y="808.44" font-family="Inter" font-size="14.08" font-weight="400" fill="#f4f4f4">Bautista Navarro y Matias Porcari</text>
+</svg>

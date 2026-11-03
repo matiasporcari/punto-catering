@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="976" viewBox="0 0 1280 976" fill="none">
+<rect width="1280" height="976" fill="#f8f4eb"/>
+<rect x="0" y="0" width="1280" height="976.33" fill="#f8f4eb"/>
+<rect x="0" y="0" width="1280" height="69" fill="#ffffff"/>
+<rect x="0" y="68" width="1280" height="1" fill="#d9d2c1"/>
+<text x="76" y="41.08" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#1f3d2f">Punto Catering</text>
+<text x="245.38" y="41.08" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#b84a1b">.</text>
+<rect x="783.27" y="13.2" width="420.73" height="41.59" fill="#ffffff"/>
+<text x="783.27" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Inicio</text>
+<text x="847.55" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Catálogo</text>
+<text x="938.58" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Contacto</text>
+<text x="1033.5" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Administración</text>
+<text x="1171.75" y="39.2" font-family="DM Sans" font-size="16" font-weight="500" fill="#1d2a23">Salir</text>
+<rect x="0" y="69" width="1280" height="50.97" fill="#1f3d2f"/>
+<rect x="76" y="116.97" width="86.88" height="3" fill="#f0935f"/>
+<text x="90.39" y="98.19" font-family="DM Sans" font-size="16" font-weight="700" fill="#ffffff">Tablero</text>
+<text x="181.27" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Pedidos</text>
+<text x="273.38" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Menús</text>
+<text x="355.09" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Categorías</text>
+<text x="467.25" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Usuarios</text>
+<text x="563.7" y="98.19" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Consultas</text>
+<text x="76" y="222.97" font-family="Fraunces" font-size="41.6" font-weight="500" fill="#1f3d2f">Tablero</text>
+<rect x="76.5" y="255.17" width="211.8" height="90.88" rx="10" fill="#ffffff" stroke="#d9d2c1" stroke-width="1"/>
+<text x="97" y="287.67" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#56635b">Pedidos por revisar</text>
+<text x="97" y="321.19" font-family="Fraunces" font-size="27.2" font-weight="500" fill="#1f3d2f">1</text>
+<rect x="305.3" y="255.17" width="211.8" height="90.88" rx="10" fill="#ffffff" stroke="#d9d2c1" stroke-width="1"/>
+<text x="325.8" y="287.67" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#56635b">Ingresos confirmados</text>
+<text x="325.8" y="321.19" font-family="Fraunces" font-size="27.2" font-weight="500" fill="#1f3d2f">$ 2.868.000</text>
+<rect x="534.09" y="255.17" width="211.8" height="90.88" rx="10" fill="#ffffff" stroke="#d9d2c1" stroke-width="1"/>
+<text x="554.59" y="287.67" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#56635b">Presupuestos en espera</text>
+<text x="554.59" y="321.19" font-family="Fraunces" font-size="27.2" font-weight="500" fill="#1f3d2f">$ 1.190.000</text>
+<rect x="762.89" y="255.17" width="211.8" height="90.88" rx="10" fill="#ffffff" stroke="#d9d2c1" stroke-width="1"/>
+<text x="783.39" y="287.67" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#56635b">Empresas activas</text>
+<text x="783.39" y="321.19" font-family="Fraunces" font-size="27.2" font-weight="500" fill="#1f3d2f">3</text>
+<rect x="991.69" y="255.17" width="211.81" height="90.88" rx="10" fill="#ffffff" stroke="#d9d2c1" stroke-width="1"/>
+<text x="1012.19" y="287.67" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#56635b">Consultas sin leer</text>
+<text x="1012.19" y="321.19" font-family="Fraunces" font-size="27.2" font-weight="500" fill="#1f3d2f">2</text>
+<rect x="76.5" y="371.05" width="553" height="337.75" rx="10" fill="#ffffff" stroke="#d9d2c1" stroke-width="1"/>
+<text x="101" y="422.55" font-family="Fraunces" font-size="28.8" font-weight="500" fill="#1f3d2f">Pedidos por estado</text>
+<text x="101" y="468.69" font-family="DM Sans" font-size="14.72" font-weight="400" fill="#1d2a23">Pendiente</text>
+<rect x="249" y="458.47" width="312" height="12" fill="#f8f4eb"/>
+<rect x="249" y="458.47" width="156" height="12" fill="#2f5d47"/>
+<text x="599.17" y="469.67" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">1</text>
+<text x="101" y="508.66" font-family="DM Sans" font-size="14.72" font-weight="400" fill="#1d2a23">Presupuestado</text>
+<rect x="249" y="498.44" width="312" height="12" fill="#f8f4eb"/>
+<rect x="249" y="498.44" width="156" height="12" fill="#2f5d47"/>
+<text x="599.17" y="509.64" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">1</text>
+<text x="101" y="548.63" font-family="DM Sans" font-size="14.72" font-weight="400" fill="#1d2a23">Aprobado</text>
+<rect x="249" y="538.41" width="312" height="12" fill="#f8f4eb"/>
+<rect x="249" y="538.41" width="312" height="12" fill="#2f5d47"/>
+<text x="595.77" y="549.61" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">2</text>
+<text x="101" y="588.59" font-family="DM Sans" font-size="14.72" font-weight="400" fill="#1d2a23">Finalizado</text>
+<rect x="249" y="578.38" width="312" height="12" fill="#f8f4eb"/>
+<rect x="249" y="578.38" width="156" height="12" fill="#2f5d47"/>
+<text x="599.17" y="589.58" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">1</text>
+<text x="101" y="628.56" font-family="DM Sans" font-size="14.72" font-weight="400" fill="#1d2a23">Rechazado</text>
+<rect x="249" y="618.34" width="312" height="12" fill="#f8f4eb"/>
+<rect x="249" y="618.34" width="156" height="12" fill="#2f5d47"/>
+<text x="599.17" y="629.55" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">1</text>
+<text x="101" y="668.53" font-family="DM Sans" font-size="14.72" font-weight="400" fill="#1d2a23">Cancelado</text>
+<rect x="249" y="658.31" width="312" height="12" fill="#f8f4eb"/>
+<rect x="249" y="658.31" width="156" height="12" fill="#2f5d47"/>
+<text x="599.17" y="669.52" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">1</text>
+<rect x="650.5" y="371.05" width="553" height="297.78" rx="10" fill="#ffffff" stroke="#d9d2c1" stroke-width="1"/>
+<text x="675" y="422.55" font-family="Fraunces" font-size="28.8" font-weight="500" fill="#1f3d2f">Menús más pedidos</text>
+<text x="675" y="468.69" font-family="DM Sans" font-size="14.72" font-weight="400" fill="#1d2a23">Box ejecutivo</text>
+<rect x="823" y="458.47" width="312" height="12" fill="#f8f4eb"/>
+<rect x="823" y="458.47" width="312" height="12" fill="#2f5d47"/>
+<text x="1173.17" y="469.67" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">1</text>
+<text x="675" y="508.66" font-family="DM Sans" font-size="14.72" font-weight="400" fill="#1d2a23">Buffet aniversario</text>
+<rect x="823" y="498.44" width="312" height="12" fill="#f8f4eb"/>
+<rect x="823" y="498.44" width="312" height="12" fill="#2f5d47"/>
+<text x="1173.17" y="509.64" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">1</text>
+<text x="675" y="548.63" font-family="DM Sans" font-size="14.72" font-weight="400" fill="#1d2a23">Café clásico</text>
+<rect x="823" y="538.41" width="312" height="12" fill="#f8f4eb"/>
+<rect x="823" y="538.41" width="312" height="12" fill="#2f5d47"/>
+<text x="1173.17" y="549.61" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">1</text>
+<text x="675" y="588.59" font-family="DM Sans" font-size="14.72" font-weight="400" fill="#1d2a23">Cena de fin de año</text>
+<rect x="823" y="578.38" width="312" height="12" fill="#f8f4eb"/>
+<rect x="823" y="578.38" width="312" height="12" fill="#2f5d47"/>
+<text x="1173.17" y="589.58" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">1</text>
+<text x="675" y="628.56" font-family="DM Sans" font-size="14.72" font-weight="400" fill="#1d2a23">Cóctel afterwork</text>
+<rect x="823" y="618.34" width="312" height="12" fill="#f8f4eb"/>
+<rect x="823" y="618.34" width="312" height="12" fill="#2f5d47"/>
+<text x="1173.17" y="629.55" font-family="DM Sans" font-size="16" font-weight="700" fill="#1d2a23">1</text>
+<rect x="0" y="793.3" width="1280" height="183.03" fill="#1f3d2f"/>
+<text x="76" y="858.3" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#f8f4eb">Punto Catering</text>
+<text x="245.38" y="858.3" font-family="Fraunces" font-size="22.4" font-weight="700" fill="#f0935f">.</text>
+<text x="76" y="895.14" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Catering para empresas, de la pausa de café a la cena de fin de</text>
+<text x="76" y="920.73" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">año.</text>
+<text x="580" y="851.3" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Catálogo</text>
+<text x="580" y="882.48" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Pedir presupuesto</text>
+<text x="580" y="913.67" font-family="DM Sans" font-size="16" font-weight="400" fill="#f8f4eb">Contacto</text>
+<text x="844" y="849.3" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#f8f4eb">Trabajo final de Programación Web - UCH</text>
+<text x="844" y="871.81" font-family="DM Sans" font-size="14.08" font-weight="400" fill="#f8f4eb">Bautista Navarro y Matias Porcari</text>
+</svg>
