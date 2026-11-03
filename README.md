@@ -17,7 +17,7 @@ Trabajo final de **Programación Web** (UCH).
 
 ## Prototipo en Figma
 
-**Enlace:** _pendiente de agregar_
+**Enlace:** https://www.figma.com/design/tVXn3nDT8CUzEBuS3ULcJc/Punto-Catering?node-id=0-1
 
 Las pantallas y los pasos para armarlo están en la [guía de Figma](documentacion/figma/GUIA_FIGMA.md).
 
