@@ -1,0 +1,1355 @@
+/* ==========================================================================
+   Punto Catering - Hoja de estilos principal
+   Índice:
+     1. Variables de diseño
+     2. Base y tipografía
+     3. Utilidades
+     4. Encabezado y navegación
+     5. Botones
+     6. Secciones de la página de inicio
+     7. Tarjetas y catálogo
+     8. Formularios
+     9. Presupuesto
+    10. Tablas, estados y mensajes
+    11. Administración y tablero
+    12. Pie de página
+    13. Presupuesto imprimible
+   ========================================================================== */
+
+/* 1. Variables de diseño
+   -------------------------------------------------------------------------- */
+:root {
+    /* Colores de marca */
+    --verde-profundo: #1f3d2f;
+    --verde-medio: #2f5d47;
+    --verde-suave: #e3ece5;
+    --naranja: #b84a1b;
+    --naranja-oscuro: #973a13;
+    --crema: #f8f4eb;
+    --crema-oscuro: #efe8d8;
+    --blanco: #ffffff;
+
+    /* Colores de texto y bordes */
+    --tinta: #1d2a23;
+    --tinta-suave: #56635b;
+    --borde: #d9d2c1;
+
+    /* Colores de estado */
+    --rojo: #a32c20;
+    --rojo-suave: #fbeae7;
+    --verde-exito-suave: #e1f1e4;
+    --ambar-suave: #fbf0d3;
+    --ambar-texto: #6f4f00;
+    --azul-suave: #e2ecf7;
+    --azul-texto: #1d4c80;
+    --gris-suave: #e9e9e6;
+
+    /* Tipografías */
+    --fuente-titulos: "Fraunces", Georgia, "Times New Roman", serif;
+    --fuente-texto: "DM Sans", "Segoe UI", Arial, sans-serif;
+
+    /* Medidas */
+    --radio: 10px;
+    --sombra: 0 1px 3px rgba(31, 61, 47, 0.12);
+}
+
+/* 2. Base y tipografía
+   -------------------------------------------------------------------------- */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: var(--crema);
+    color: var(--tinta);
+    font-family: var(--fuente-texto);
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+main {
+    flex: 1;
+}
+
+h1,
+h2,
+h3 {
+    margin: 0 0 0.5em;
+    font-family: var(--fuente-titulos);
+    font-weight: 500;
+    line-height: 1.2;
+    color: var(--verde-profundo);
+}
+
+h1 {
+    font-size: clamp(1.9rem, 4vw, 2.6rem);
+}
+
+h2 {
+    font-size: clamp(1.4rem, 3vw, 1.8rem);
+}
+
+h3 {
+    font-size: 1.15rem;
+}
+
+p {
+    margin: 0 0 1em;
+}
+
+a {
+    color: var(--naranja);
+}
+
+a:hover {
+    color: var(--naranja-oscuro);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+:focus-visible {
+    outline: 3px solid var(--naranja);
+    outline-offset: 2px;
+}
+
+/* 3. Utilidades
+   -------------------------------------------------------------------------- */
+.contenedor {
+    width: 100%;
+    max-width: 1160px;
+    margin-inline: auto;
+    padding-inline: 16px;
+}
+
+.contenedor-angosto {
+    max-width: 780px;
+}
+
+.contenedor-mini {
+    max-width: 460px;
+}
+
+.seccion {
+    padding-block: clamp(2rem, 5vw, 4rem);
+}
+
+.seccion-alterna {
+    background: var(--crema-oscuro);
+}
+
+.sobretitulo {
+    margin-bottom: 0.4em;
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--naranja);
+}
+
+.bajada {
+    color: var(--tinta-suave);
+    font-size: 1.05rem;
+}
+
+.texto-suave {
+    color: var(--tinta-suave);
+}
+
+.texto-centrado {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.oculto {
+    display: none;
+}
+
+.solo-lector {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+}
+
+/* Elementos que solo hacen falta cuando JavaScript no está disponible. */
+.con-js .sin-js {
+    display: none;
+}
+
+.salto-contenido {
+    position: absolute;
+    left: -999px;
+    padding: 0.5rem 1rem;
+    background: var(--blanco);
+    z-index: 20;
+}
+
+.salto-contenido:focus {
+    left: 8px;
+    top: 8px;
+}
+
+.titulo-con-enlace {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem 1.5rem;
+    margin-bottom: 1.25rem;
+}
+
+.titulo-con-enlace h1,
+.titulo-con-enlace h2,
+.titulo-con-enlace .bajada {
+    margin-bottom: 0;
+}
+
+/* 4. Encabezado y navegación
+   -------------------------------------------------------------------------- */
+.encabezado-sitio {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--blanco);
+    border-bottom: 1px solid var(--borde);
+}
+
+.encabezado-interior {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 68px;
+}
+
+.logo {
+    margin: 0;
+    font-family: var(--fuente-titulos);
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--verde-profundo);
+    text-decoration: none;
+}
+
+.logo:hover {
+    color: var(--verde-profundo);
+}
+
+.logo-punto {
+    color: var(--naranja);
+}
+
+.logo-claro {
+    color: var(--crema);
+}
+
+.logo-claro .logo-punto {
+    color: #f0935f;
+}
+
+.navegacion {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 1rem 16px;
+    background: var(--blanco);
+    border-bottom: 1px solid var(--borde);
+}
+
+.navegacion.abierta {
+    display: flex;
+}
+
+.navegacion > a:not(.boton),
+.enlace-boton {
+    padding: 0.5rem 0;
+    color: var(--tinta);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.navegacion > a:not(.boton):hover,
+.formulario-salir .enlace-boton:hover {
+    color: var(--naranja);
+}
+
+.formulario-salir {
+    margin: 0;
+}
+
+.enlace-boton {
+    border: 0;
+    background: none;
+    font: inherit;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 0;
+}
+
+.formulario-salir .enlace-boton {
+    padding: 0.5rem 0;
+}
+
+.acciones-fila .enlace-boton {
+    color: var(--naranja);
+    text-decoration: underline;
+    font-weight: 400;
+}
+
+.acciones-fila .enlace-peligro {
+    color: var(--rojo);
+}
+
+.boton-menu {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 10px;
+    background: none;
+    border: 0;
+    cursor: pointer;
+}
+
+.boton-menu span {
+    display: block;
+    width: 24px;
+    height: 2px;
+    background: var(--verde-profundo);
+}
+
+@media (min-width: 900px) {
+    .boton-menu {
+        display: none;
+    }
+
+    .navegacion {
+        display: flex;
+        position: static;
+        flex-direction: row;
+        align-items: center;
+        gap: 1.5rem;
+        padding: 0;
+        border: 0;
+    }
+}
+
+/* 5. Botones
+   -------------------------------------------------------------------------- */
+.boton {
+    display: inline-block;
+    padding: 0.65rem 1.2rem;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    font: inherit;
+    font-weight: 700;
+    line-height: 1.3;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.boton-grande {
+    padding: 0.85rem 1.6rem;
+    font-size: 1.05rem;
+}
+
+.boton-ancho {
+    width: 100%;
+}
+
+.boton-primario {
+    background: var(--naranja);
+    color: var(--blanco);
+}
+
+.boton-primario:hover {
+    background: var(--naranja-oscuro);
+    color: var(--blanco);
+}
+
+.boton-secundario {
+    border-color: var(--verde-medio);
+    color: var(--verde-profundo);
+    background: transparent;
+}
+
+.boton-secundario:hover {
+    background: var(--verde-profundo);
+    border-color: var(--verde-profundo);
+    color: var(--blanco);
+}
+
+.boton-claro {
+    background: var(--blanco);
+    border-color: var(--borde);
+    color: var(--verde-profundo);
+}
+
+.boton-claro:hover {
+    background: var(--crema-oscuro);
+    color: var(--verde-profundo);
+}
+
+.boton-peligro {
+    border-color: var(--rojo);
+    color: var(--rojo);
+    background: transparent;
+}
+
+.boton-peligro:hover {
+    background: var(--rojo);
+    color: var(--blanco);
+}
+
+.grupo-botones {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 1rem;
+}
+
+.grupo-botones form {
+    margin: 0;
+}
+
+/* 6. Secciones de la página de inicio
+   -------------------------------------------------------------------------- */
+.portada {
+    background: var(--verde-profundo);
+    color: var(--crema);
+    padding-block: clamp(2.5rem, 7vw, 5rem);
+}
+
+.portada h1 {
+    color: var(--blanco);
+    font-size: clamp(2.2rem, 5.5vw, 3.6rem);
+}
+
+.portada .sobretitulo {
+    color: #f0b48f;
+}
+
+.portada-interior {
+    display: grid;
+    gap: 2.5rem;
+    align-items: center;
+}
+
+.portada-bajada {
+    font-size: 1.15rem;
+    max-width: 34rem;
+}
+
+.portada-imagen {
+    display: none;
+    justify-self: end;
+}
+
+@media (min-width: 900px) {
+    .portada-interior {
+        grid-template-columns: 1.1fr 1fr;
+    }
+
+    .portada-imagen {
+        display: block;
+    }
+}
+
+.lista-pasos {
+    display: grid;
+    gap: 1.25rem;
+    margin: 1.5rem 0 0;
+    padding: 0;
+    list-style: none;
+    counter-reset: paso;
+}
+
+.lista-pasos li {
+    counter-increment: paso;
+    padding-top: 1rem;
+    border-top: 2px solid var(--verde-profundo);
+}
+
+.lista-pasos li::before {
+    content: counter(paso);
+    display: block;
+    margin-bottom: 0.5rem;
+    font-family: var(--fuente-titulos);
+    font-size: 2rem;
+    line-height: 1;
+    color: var(--naranja);
+}
+
+@media (min-width: 720px) {
+    .lista-pasos {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2rem;
+    }
+}
+
+.grilla-categorias {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    margin-top: 1.5rem;
+}
+
+.tarjeta-categoria {
+    display: block;
+    padding: 1.25rem;
+    border-radius: var(--radio);
+    background: var(--verde-suave);
+    color: var(--tinta);
+    text-decoration: none;
+    transition: background-color 0.15s ease;
+}
+
+.tarjeta-categoria:hover {
+    background: #d3e1d7;
+    color: var(--tinta);
+}
+
+.tarjeta-categoria p {
+    margin: 0;
+    font-size: 0.95rem;
+}
+
+.franja-llamado {
+    background: var(--crema-oscuro);
+    padding-block: 2.5rem;
+}
+
+.franja-llamado-interior {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.25rem;
+}
+
+.franja-llamado h2,
+.franja-llamado p {
+    margin-bottom: 0.25rem;
+}
+
+/* 7. Tarjetas y catálogo
+   -------------------------------------------------------------------------- */
+.tarjeta {
+    margin-bottom: 1.25rem;
+    padding: 1.5rem;
+    background: var(--blanco);
+    border: 1px solid var(--borde);
+    border-radius: var(--radio);
+    box-shadow: var(--sombra);
+}
+
+.destacado {
+    border: 2px solid var(--naranja);
+}
+
+.importe-grande {
+    margin-bottom: 0.25em;
+    font-family: var(--fuente-titulos);
+    font-size: 2.25rem;
+    line-height: 1.1;
+    color: var(--verde-profundo);
+}
+
+.estado-vacio {
+    grid-column: 1 / -1;
+    padding: 2rem;
+    text-align: center;
+    color: var(--tinta-suave);
+}
+
+.grilla-menus {
+    display: grid;
+    gap: 1.25rem;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+
+.tarjeta-menu {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    background: var(--blanco);
+    border: 1px solid var(--borde);
+    border-radius: var(--radio);
+    box-shadow: var(--sombra);
+}
+
+.tarjeta-menu-imagen {
+    width: 100%;
+    aspect-ratio: 5 / 3;
+    object-fit: cover;
+}
+
+.tarjeta-menu-cuerpo {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    padding: 1.1rem 1.25rem 1.25rem;
+}
+
+.tarjeta-menu-descripcion {
+    flex: 1;
+    font-size: 0.95rem;
+    color: var(--tinta-suave);
+}
+
+.lista-distintivos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0 0 1rem;
+    padding: 0;
+    list-style: none;
+}
+
+.distintivo {
+    padding: 0.1rem 0.6rem;
+    border-radius: 999px;
+    background: var(--verde-suave);
+    color: var(--verde-profundo);
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.distintivo-neutro {
+    background: var(--crema-oscuro);
+    color: var(--tinta-suave);
+}
+
+.tarjeta-menu-pie {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+}
+
+.precio {
+    margin: 0;
+    line-height: 1.2;
+}
+
+.precio strong {
+    display: block;
+    font-size: 1.2rem;
+    color: var(--verde-profundo);
+}
+
+.precio span {
+    font-size: 0.8rem;
+    color: var(--tinta-suave);
+}
+
+.filtros {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    gap: 1rem 1.25rem;
+    margin-bottom: 1rem;
+    padding: 1rem 1.25rem;
+    background: var(--blanco);
+    border: 1px solid var(--borde);
+    border-radius: var(--radio);
+}
+
+.filtros .campo {
+    margin: 0;
+}
+
+.filtro-texto {
+    flex: 1 1 240px;
+}
+
+.contador-resultados {
+    margin-bottom: 0.75rem;
+    color: var(--tinta-suave);
+    font-size: 0.95rem;
+}
+
+/* 8. Formularios
+   -------------------------------------------------------------------------- */
+.formulario h2 {
+    margin-bottom: 1rem;
+}
+
+fieldset {
+    min-width: 0;
+}
+
+fieldset.tarjeta legend {
+    float: left;
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 0;
+    font-family: var(--fuente-titulos);
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: var(--verde-profundo);
+}
+
+fieldset.tarjeta legend + * {
+    clear: both;
+}
+
+.campo {
+    margin-bottom: 1rem;
+}
+
+.campo label {
+    display: block;
+    margin-bottom: 0.3rem;
+    font-weight: 500;
+}
+
+.opcional {
+    font-weight: 400;
+    color: var(--tinta-suave);
+}
+
+input:not([type="checkbox"]),
+select,
+textarea {
+    width: 100%;
+    padding: 0.6rem 0.75rem;
+    border: 1px solid #a9a696;
+    border-radius: 8px;
+    background: var(--blanco);
+    color: var(--tinta);
+    font: inherit;
+}
+
+input[type="checkbox"] {
+    width: 1.1rem;
+    height: 1.1rem;
+    flex-shrink: 0;
+    accent-color: var(--naranja);
+}
+
+[aria-invalid="true"] {
+    border-color: var(--rojo) !important;
+}
+
+.error-campo {
+    margin: 0.3rem 0 0;
+    color: var(--rojo);
+    font-size: 0.9rem;
+}
+
+.ayuda-campo {
+    margin: 0.3rem 0 0;
+    color: var(--tinta-suave);
+    font-size: 0.85rem;
+}
+
+.casilla {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding-block: 0.6rem;
+    cursor: pointer;
+}
+
+.grupo-casillas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.grilla-campos {
+    display: grid;
+    gap: 0 1rem;
+}
+
+@media (min-width: 560px) {
+    .grilla-campos {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+/* 9. Presupuesto
+   -------------------------------------------------------------------------- */
+.distribucion-presupuesto {
+    display: grid;
+    gap: 1.25rem;
+    align-items: start;
+}
+
+@media (min-width: 900px) {
+    .distribucion-presupuesto {
+        grid-template-columns: minmax(0, 1fr) 340px;
+    }
+
+    .resumen-presupuesto {
+        position: sticky;
+        top: 88px;
+    }
+}
+
+.titulo-grupo {
+    margin: 1.25rem 0 0.5rem;
+    clear: both;
+}
+
+.lista-opciones {
+    display: grid;
+    gap: 0.5rem;
+}
+
+.opcion-menu {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 0.75rem;
+    border: 1px solid var(--borde);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.opcion-menu:hover {
+    border-color: var(--verde-medio);
+}
+
+.opcion-menu:has(input:checked) {
+    border-color: var(--naranja);
+    background: #fdf5ef;
+}
+
+.opcion-menu input {
+    margin-top: 0.2rem;
+}
+
+.opcion-menu-texto {
+    flex: 1;
+    min-width: 0;
+}
+
+.opcion-menu-texto small {
+    display: block;
+    color: var(--tinta-suave);
+    line-height: 1.4;
+}
+
+.opcion-menu-minimo {
+    margin-top: 0.2rem;
+    font-weight: 500;
+}
+
+.opcion-menu-precio {
+    font-weight: 700;
+    white-space: nowrap;
+    color: var(--verde-profundo);
+}
+
+.resumen-lista {
+    margin: 0 0 1rem;
+    padding: 0;
+    list-style: none;
+}
+
+.resumen-lista li {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.35rem 0;
+    border-bottom: 1px dashed var(--borde);
+    font-size: 0.95rem;
+}
+
+.resumen-personas,
+.resumen-total {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 0.5rem;
+}
+
+.resumen-total strong {
+    font-family: var(--fuente-titulos);
+    font-size: 1.8rem;
+    color: var(--verde-profundo);
+}
+
+.resumen-presupuesto .boton {
+    margin-top: 0.75rem;
+}
+
+/* 10. Tablas, estados y mensajes
+   -------------------------------------------------------------------------- */
+.tabla-contenedor {
+    /* La posición relativa retiene dentro del recuadro los textos .solo-lector, que son absolutos. */
+    position: relative;
+    overflow-x: auto;
+    background: var(--blanco);
+    border: 1px solid var(--borde);
+    border-radius: var(--radio);
+}
+
+.tabla {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+}
+
+.tabla th,
+.tabla td {
+    padding: 0.7rem 0.9rem;
+    text-align: left;
+    vertical-align: top;
+    border-bottom: 1px solid var(--crema-oscuro);
+}
+
+.tabla thead th {
+    background: var(--verde-suave);
+    color: var(--verde-profundo);
+    font-weight: 700;
+    white-space: nowrap;
+}
+
+.tabla tbody tr:last-child td,
+.tabla tfoot tr:last-child th,
+.tabla tfoot tr:last-child td {
+    border-bottom: 0;
+}
+
+.tabla .celda-numero {
+    text-align: right;
+    white-space: nowrap;
+}
+
+.tabla tfoot th {
+    text-align: right;
+    font-weight: 500;
+}
+
+.celda-sin-corte {
+    white-space: nowrap;
+}
+
+.celda-sin-corte small {
+    display: block;
+}
+
+.acciones-fila {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.25rem 0.9rem;
+}
+
+.acciones-fila form {
+    margin: 0;
+}
+
+.etiqueta-estado {
+    display: inline-block;
+    padding: 0.15rem 0.65rem;
+    border-radius: 999px;
+    font-size: 0.82rem;
+    font-weight: 700;
+    white-space: nowrap;
+}
+
+.estado-pendiente {
+    background: var(--ambar-suave);
+    color: var(--ambar-texto);
+}
+
+.estado-presupuestado {
+    background: var(--azul-suave);
+    color: var(--azul-texto);
+}
+
+.estado-aprobado {
+    background: var(--verde-exito-suave);
+    color: var(--verde-profundo);
+}
+
+.estado-finalizado {
+    background: var(--verde-profundo);
+    color: var(--blanco);
+}
+
+.estado-rechazado {
+    background: var(--rojo-suave);
+    color: var(--rojo);
+}
+
+.estado-cancelado {
+    background: var(--gris-suave);
+    color: var(--tinta-suave);
+}
+
+.mensaje {
+    margin-block: 1rem;
+    padding: 0.8rem 1rem;
+    border-left: 4px solid;
+    border-radius: 6px;
+}
+
+.mensaje-exito {
+    background: var(--verde-exito-suave);
+    border-color: var(--verde-medio);
+}
+
+.mensaje-error {
+    background: var(--rojo-suave);
+    border-color: var(--rojo);
+}
+
+.mensaje-aviso {
+    background: var(--ambar-suave);
+    border-color: #b98a10;
+}
+
+.lista-datos {
+    margin: 0;
+}
+
+.lista-datos > div {
+    display: grid;
+    grid-template-columns: 8.5rem 1fr;
+    gap: 0.75rem;
+    padding: 0.45rem 0;
+    border-bottom: 1px solid var(--crema-oscuro);
+}
+
+.lista-datos dt {
+    color: var(--tinta-suave);
+}
+
+.lista-datos dd {
+    margin: 0;
+    overflow-wrap: anywhere;
+}
+
+.lista-datos + h3 {
+    margin-top: 1.25rem;
+}
+
+.lista-simple {
+    padding-left: 1.1rem;
+}
+
+.nota-admin {
+    margin: 1rem 0 0;
+    padding: 0.75rem 1rem;
+    background: var(--crema);
+    border-radius: 6px;
+}
+
+/* 11. Administración y tablero
+   -------------------------------------------------------------------------- */
+.navegacion-admin {
+    background: var(--verde-profundo);
+}
+
+.navegacion-admin-interior {
+    display: flex;
+    gap: 0.25rem;
+    overflow-x: auto;
+}
+
+.navegacion-admin a {
+    padding: 0.7rem 0.9rem;
+    color: var(--crema);
+    text-decoration: none;
+    white-space: nowrap;
+    border-bottom: 3px solid transparent;
+}
+
+.navegacion-admin a:hover {
+    color: var(--blanco);
+    background: var(--verde-medio);
+}
+
+.navegacion-admin a.activa {
+    color: var(--blanco);
+    font-weight: 700;
+    border-bottom-color: #f0935f;
+}
+
+.distribucion-dos-columnas {
+    display: grid;
+    gap: 1.25rem;
+    align-items: start;
+}
+
+@media (min-width: 900px) {
+    .distribucion-dos-columnas {
+        grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
+    }
+}
+
+.grilla-indicadores {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+    margin-bottom: 1.5rem;
+}
+
+.indicador {
+    display: block;
+    padding: 1rem 1.25rem;
+    background: var(--blanco);
+    border: 1px solid var(--borde);
+    border-radius: var(--radio);
+    color: var(--tinta);
+    text-decoration: none;
+}
+
+a.indicador:hover {
+    border-color: var(--verde-medio);
+    color: var(--tinta);
+}
+
+.indicador-titulo {
+    display: block;
+    font-size: 0.88rem;
+    color: var(--tinta-suave);
+}
+
+.indicador-valor {
+    display: block;
+    font-family: var(--fuente-titulos);
+    font-size: 1.7rem;
+    font-weight: 500;
+    line-height: 1.3;
+    color: var(--verde-profundo);
+    overflow-wrap: anywhere;
+}
+
+.grilla-graficos {
+    display: grid;
+    gap: 1.25rem;
+    align-items: start;
+}
+
+@media (min-width: 800px) {
+    .grilla-graficos {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+.grafico-barras {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.grafico-barras li {
+    display: grid;
+    grid-template-columns: minmax(0, 8.5rem) 1fr 2rem;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.45rem 0;
+}
+
+.grafico-barras li:hover .barra-relleno {
+    background: var(--verde-profundo);
+}
+
+.barra-etiqueta {
+    font-size: 0.92rem;
+}
+
+.barra-pista {
+    display: block;
+    height: 12px;
+    border-radius: 0 4px 4px 0;
+    background: var(--crema);
+}
+
+.barra-relleno {
+    display: block;
+    height: 100%;
+    border-radius: 0 4px 4px 0;
+    background: var(--verde-medio);
+}
+
+.barra-valor {
+    text-align: right;
+    font-weight: 700;
+}
+
+.consulta-leida {
+    box-shadow: none;
+    background: #fbf9f4;
+}
+
+.consulta-encabezado {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.consulta-encabezado h2 {
+    margin-bottom: 0;
+    font-size: 1.15rem;
+}
+
+/* 12. Pie de página
+   -------------------------------------------------------------------------- */
+.pie-sitio {
+    padding-block: 2.5rem;
+    background: var(--verde-profundo);
+    color: var(--crema);
+}
+
+.pie-interior {
+    display: grid;
+    gap: 1.5rem;
+}
+
+@media (min-width: 720px) {
+    .pie-interior {
+        grid-template-columns: 2fr 1fr 1.5fr;
+    }
+}
+
+.pie-sitio nav {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+}
+
+.pie-sitio a {
+    color: var(--crema);
+}
+
+.pie-sitio a:hover {
+    color: var(--blanco);
+}
+
+.pie-sitio p {
+    margin-bottom: 0.5rem;
+}
+
+.pie-creditos {
+    font-size: 0.88rem;
+}
+
+/* 13. Presupuesto imprimible
+   -------------------------------------------------------------------------- */
+.pagina-impresion {
+    background: var(--crema-oscuro);
+}
+
+.barra-impresion {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 1rem 16px;
+}
+
+.hoja-presupuesto {
+    flex: none;
+    width: calc(100% - 32px);
+    max-width: 768px;
+    margin: 0 auto 2rem;
+    padding: clamp(1.25rem, 5vw, 3rem);
+    background: var(--blanco);
+    box-shadow: var(--sombra);
+}
+
+.hoja-encabezado {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--verde-profundo);
+}
+
+.hoja-numero {
+    text-align: right;
+}
+
+.hoja-numero h1 {
+    margin-bottom: 0.1em;
+    font-size: 1.5rem;
+}
+
+.hoja-numero p {
+    margin: 0;
+    color: var(--tinta-suave);
+    font-size: 0.9rem;
+}
+
+.hoja-columnas {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem 2rem;
+    margin-bottom: 1rem;
+}
+
+.hoja-columnas h2 {
+    margin-bottom: 0.3em;
+    font-size: 1.05rem;
+}
+
+.hoja-total th,
+.hoja-total td {
+    font-size: 1.15rem;
+    font-weight: 700 !important;
+    color: var(--verde-profundo);
+    border-top: 2px solid var(--verde-profundo);
+}
+
+/* En celulares se compacta la tabla, porque los importes no se cortan en dos líneas. */
+@media (max-width: 560px) {
+    .hoja-presupuesto .tabla {
+        font-size: 0.85rem;
+    }
+
+    .hoja-presupuesto .tabla th,
+    .hoja-presupuesto .tabla td {
+        padding: 0.5rem 0.35rem;
+    }
+}
+
+@media print {
+    .no-imprimir {
+        display: none !important;
+    }
+
+    .pagina-impresion {
+        background: var(--blanco);
+    }
+
+    .hoja-presupuesto {
+        width: 100%;
+        max-width: none;
+        margin: 0;
+        padding: 0;
+        box-shadow: none;
+    }
+}
